@@ -14,14 +14,14 @@ All the resource pages can be accessed in sections below on this page.
 ### Jurassic Timescale
 #### ICS Approved timescale
 
-The ICS approved timescale as a pdf file: [ICS Geological Timescale](/files/ics-geologicaltimescale2015-01.pdf). Other file formats and versions can be found on the [chart/timescale page of the ICS website](https://stratigraphy.org/chart).
+The ICS approved timescale as a pdf file: [ICS Geological Timescale](files/ics-geologicaltimescale2015-01.pdf). Other file formats and versions can be found on the [chart/timescale page of the ICS website](https://stratigraphy.org/chart).
 
 #### Gradstein et al. (2012) and Timescale Creator
 
 [Timescale Creator](https://engineering.purdue.edu/Stratigraphy/tscreator/index/index.php) can be used to generate charts using data in Gradstein et al. (2012). Here are two versions for the Jurassic generated using this software. Both of these versions use the Tethyan ammonite zonation.
 
-* [Jurassic timescale pdf](/files/timescalecreators_jurassic.pdf)
-* [Expanded Jurassic timescale pdf](/files/timescalecreator_jurassic_expanded.pdf)
+* [Jurassic timescale pdf](files/timescalecreators_jurassic.pdf)
+* [Expanded Jurassic timescale pdf](files/timescalecreator_jurassic_expanded.pdf)
 
 #### References
 
@@ -36,29 +36,29 @@ At least one newsletter was produced almost every year from when the subcommissi
 The ISJS Newsletters from 1978 to 1988 and from 1999 to 2010 are available for download below:
 
 
-* [Newsletter 1](/files/isjs-newsletter-no-1.pdf) (1978)
-* [Newsletter 2](/files/isjs-newsletter-no-2.pdf) (1979)
-* [Newsletter 3](/files/isjs-newsletter-no-3.pdf) (1980)
-* [Newsletter 4](/files/isjs-newsletter-no-4.pdf) (1981)
-* [Newsletter 5](/files/isjs-newsletter-no-5.pdf) (1982)
-* [Newsletter 6](/files/isjs-newsletter-no-6.pdf) (1983)
-* [Newsletter 7](/files/isjs-newsletter-no-7.pdf) (1984)
-* [Newsletter 8](/files/isjs-newsletter-no-8.pdf) (1985)
-* [Newsletter 9](/files/isjs-newsletter-no-9.pdf) (1986)
-* [Newsletter 10](/files/isjs-newsletter-no-10.pdf) (1987)
-* [Newsletter 11](/files/isjs-newsletter-no-11.pdf) (1988)
-* [Newsletter 27](/files/isjs-newsletter-no-27.pdf) (1999)
-* [Newsletter 28](/files/isjs-newsletter-no-28.pdf) (2001)
-* [Newsletter 29](/files/isjs-newsletter-no-29.pdf) (2002)
-* [Newsletter 30](/files/isjs-newsletter-no-30.pdf) (2003)
-* [Newsletter 31](/files/isjs-newsletter-no-31.pdf) (2004)
-* [Newsletter 32](/files/isjs-newsletter-no-32.pdf) (2005)
-* [Newsletter 33](/files/isjs-newsletter-no-33.pdf) (2006)
-* [Newsletter 34/1](/files/isjs-newsletter-no-34-1.pdf) (2007)
-* [Newsletter 34/2](/files/isjs-newsletter-no-34-2.pdf) (2007)
-* [Newsletter 35/1](/files/isjs-newsletter-no-35-1.pdf) (2008)
-* [Newsletter 35/2](/files/isjs-newsletter-no-35-2.pdf) (2008)
-* [Newsletter 36](/files/isjs-newsletter-no-36.pdf) (2010)
+* [Newsletter 1](files/isjs-newsletter-no-1.pdf) (1978)
+* [Newsletter 2](files/isjs-newsletter-no-2.pdf) (1979)
+* [Newsletter 3](files/isjs-newsletter-no-3.pdf) (1980)
+* [Newsletter 4](files/isjs-newsletter-no-4.pdf) (1981)
+* [Newsletter 5](files/isjs-newsletter-no-5.pdf) (1982)
+* [Newsletter 6](files/isjs-newsletter-no-6.pdf) (1983)
+* [Newsletter 7](files/isjs-newsletter-no-7.pdf) (1984)
+* [Newsletter 8](files/isjs-newsletter-no-8.pdf) (1985)
+* [Newsletter 9](files/isjs-newsletter-no-9.pdf) (1986)
+* [Newsletter 10](files/isjs-newsletter-no-10.pdf) (1987)
+* [Newsletter 11](files/isjs-newsletter-no-11.pdf) (1988)
+* [Newsletter 27](files/isjs-newsletter-no-27.pdf) (1999)
+* [Newsletter 28](files/isjs-newsletter-no-28.pdf) (2001)
+* [Newsletter 29](files/isjs-newsletter-no-29.pdf) (2002)
+* [Newsletter 30](files/isjs-newsletter-no-30.pdf) (2003)
+* [Newsletter 31](files/isjs-newsletter-no-31.pdf) (2004)
+* [Newsletter 32](files/isjs-newsletter-no-32.pdf) (2005)
+* [Newsletter 33](files/isjs-newsletter-no-33.pdf) (2006)
+* [Newsletter 34/1](files/isjs-newsletter-no-34-1.pdf) (2007)
+* [Newsletter 34/2](files/isjs-newsletter-no-34-2.pdf) (2007)
+* [Newsletter 35/1](files/isjs-newsletter-no-35-1.pdf) (2008)
+* [Newsletter 35/2](files/isjs-newsletter-no-35-2.pdf) (2008)
+* [Newsletter 36](files/isjs-newsletter-no-36.pdf) (2010)
 
 **New contributions**: Please send any new material for publication in the year ahead to both the [Chair of ISJS](http://www.open.ac.uk/people/alc8#tab1) and through the manuscript submission route for _Volumina Jurassica_ following the [instructions for authors](https://vjs.pgi.gov.pl/about/submissions).
 
