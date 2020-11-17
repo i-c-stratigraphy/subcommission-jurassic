@@ -1,9 +1,9 @@
-# Neogene Subcommission Website
-The small website for the Neogene subcommission of the International Commission on Stratigraphy, online at <http://neogene.stratigraphy.org>.
+# Jurassic Subcommission Website
+The small website for the Neogene subcommission of the International Commission on Stratigraphy, online at <http://jurassic.stratigraphy.org>.
 
 
 ## Content
-Content for this website is managed by the [Neogene subcommission of the ICS](https://stratigraphy.org/subcommissions#neogene).
+Content for this website is managed by the [Jurassic subcommission of the ICS](https://stratigraphy.org/subcommissions#jurassic).
 
 See Contacts below.
 
@@ -11,7 +11,7 @@ See Contacts below.
 ## Technical website operations
 This is a [Jekyll](https://jekyllrb.com/) *static site generator* website which means the source files are pretty much simplified HTML pages - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)-formatted text files - which you can see stored in the [pages/](pages/) folder. These are combined with a very simple template to add headers & footers to all pages and produce the final HTML web pages which are then delivered online with a web server. We are using the built in [GitHub Pages](https://pages.github.com/).
 
-This subcommission's website is hosted within the ICS's set of code repositories, see <https://github.com/i-c-stratigraphy/subcommission-neogene>.
+This subcommission's website is hosted within the ICS's set of code repositories, see <https://github.com/i-c-stratigraphy/subcommission-jurassic>.
 
 Running the site locally:
 
@@ -30,10 +30,10 @@ See the [local copy of the license deed](LICENSE) for details.
 
 ## Support and contacts
 *For website content:*  
-**Prof. Elena Turco**  
-Neogene Subcommission Vice-Chair  
-Università degli Studi di Parma  
-<elena.turco@unipr.it>  
+**Professor Angela L. Coe**  
+Jurassic Subcommission Chair  
+The Open University, UK  
+<Angela.Coe@open.ac.uk>  
 
 
 *For website technical matters:*  
