@@ -154,14 +154,20 @@ A full account is published in:
 
 [Von Hillebrandt, A. et al. 2013](http://www.episodes.org/index.php/epi/article/view/59404). The Global Stratotype Sections and Point (GSSP) for the base of the Jurassic System at Kuhjoch (Karwendel Mountains, Northern Calcareous Alps, Tyrol, Austria). _Episodes_ v. 36. p. 162-198.
 
-![](images/monnigbase-jurassic-kujoch-section.png)
-<p style="font-size:smaller;">Overlooking the Kujoch section in Karwendel near Hinterriss, Austria. The red arrow points to the GSSP for the Jurassic. Photo: Joachim Blau (12.6.2009).</p>
+<div class="figure">
+    <img src="images/monnigbase-jurassic-kujoch-section-s.png" alt="Monnigbase Jurassic section" /><br />
+    <span>Overlooking the Kujoch section in Karwendel near Hinterriss, Austria. The red arrow points to the GSSP for the Jurassic. Photo: Joachim Blau (12.6.2009).</span>
+</div>
 
-![](images/monnigbase-jurassic-klein.jpg)
-<p style="font-size:smaller;">The German Jurassic Subcommission visits the Kujoch section. The Triassic-Jurassic boundary lies in the Tiefengraben Member (red marls), about where the two people in the middle of the group are standing. The Golden Spike is now located on the other side of the ridge. Photo: Stefanie Mönnig (12.6.2009).</p>
+<div class="figure">
+    <img src="images/monnigbase-jurassic-klein-s.jpg" alt="Monnigbase Jurassic klein" /><br />
+    <span>The German Jurassic Subcommission visits the Kujoch section. The Triassic-Jurassic boundary lies in the Tiefengraben Member (red marls), about where the two people in the middle of the group are standing. The Golden Spike is now located on the other side of the ridge. Photo: Stefanie Mönnig (12.6.2009).</span>
+</div>
 
-![](images/monnigbase-jurassic-kujoch-gssp-20_8_2011people.jpg)
-<p style="font-size:smaller;">The „Golden Spike“, marking the base of the Jurassic System. József Pálfy (Chairman ISJS) and Stan Finney (Chairman ISC) on the left side are sitting in Triassic beds, while Axel von Hillebrandt, Leo Krystyn (both Hettangian Working Group) and Nicol Morton (former Chairman ISJS) on the right side have their feet in the Jurassic. The beds are overturned. Photo: Stefanie Mönnig (20.8.2011).</p>
+<div class="figure">
+    <img src="images/monnigbase-jurassic-kujoch-gssp-20_8_2011people-s.jpg" alt="Monnigbase Jurassic people" /><br />
+    <span>The „Golden Spike“, marking the base of the Jurassic System. József Pálfy (Chairman ISJS) and Stan Finney (Chairman ISC) on the left side are sitting in Triassic beds, while Axel von Hillebrandt, Leo Krystyn (both Hettangian Working Group) and Nicol Morton (former Chairman ISJS) on the right side have their feet in the Jurassic. The beds are overturned. Photo: Stefanie Mönnig (20.8.2011).</span>
+</div>
 
 
 ### Other working groups
