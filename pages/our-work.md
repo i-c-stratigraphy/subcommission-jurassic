@@ -35,6 +35,7 @@ One of the major aims of the ISJS is to define all the Global Stratotypes, Secti
 
 
 #### Tithonian
+<div style="height:20px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
 A working definition is near the base of the _Hybonoticeras hybonotum_ ammonite zone and lowest occurrence of _Gravesia_ genus, and the base of magnetic polarity chronozone M22An.
 
 Candidates GSSPs are at Mt. Crussol or Canjuers (SE France) and Fornazzo (Sicily, S. Italy).
@@ -52,6 +53,7 @@ Kimmeridge Bay, Dorset, UK
 
 
 #### Kimmeridgian
+<div style="height:20px; width:100%; background-color:#C6EFFC; display:block;">&nbsp;</div>
 The working definition of the base of the Kimmeridgian Stage is the base of the the Subboreal _baylei_ ammonite Zone (in particular the base of the _Pictonia flodigarriensis_ horizon, which is also marked by the appearance by the oldest Boreal _Plasmatites_). This horizon, where it occurs in the Staffin Bay section on the Isle of Skye, Scotland, UK, has been agreed by the working group as the candidate GSSP.
 
 The formal proposal for this candidate GSSP has now been accepted by the voting members of ISJS  and is just being finalised for submission to ICS.
@@ -62,6 +64,7 @@ The convenor of the Kimmeridgian Working Group is Andrzej Wierzbowski, Faculty o
 
 
 #### Oxfordian
+<div style="height:20px; width:100%; background-color:#B7ECFC; display:block;">&nbsp;</div>
 The working definition is at the base of the ammonite Cardioceras redcliffense Horizon at base of the Cardioceras scarburgense Subzone (Quenstedtoceras mariae Zone).
 
 Candidates locations for the Global Stratotype Section and Point are at Thoux, Provence, SE France ([Pellenard _et al_. 2014](https://vjs.pgi.gov.pl/article/view/26592)) and Redcliff Point, Dorset, SW England ([Melendez & Page (2015)](https://vjs.pgi.gov.pl/article/view/26644).
@@ -75,6 +78,7 @@ Dubki section, Saratov area, Russia
 
 
 #### Callovian
+<div style="height:20px; width:100%; background-color:#B9EBF2; display:block;">&nbsp;</div>
 The working definition is the first occurrence of the ammonite genus _Kepplerites_ (_Kosmoceratidae_) which marks the base of _Macrocephalites herveyi_ Zone in sub-Boreal province of Great Britain to southwest Germany.
 
 The [Callovian working group](http://jurassic.ru/callovian.htm) who are completing research to define the base of the Callovian Stage is convened by Dr. Eckhard Mönnig, Naturkunde-Museum Coburg, Park 6, D-96450 Coburg, Germany, e.moennig[AT]naturkunde-museum-coburg.de
@@ -90,12 +94,14 @@ Prosek section, Nizhni Novgorod area, Russia
 
 
 #### Bathonian
+<div style="height:20px; width:100%; background-color:#AAE7F2; display:block;">&nbsp;</div>
 The Global boundary Stratotype Section and Point (GSSP) for the Bathonian is defined at the base of limestone bed RB071 in the Ravin du Bès Section, Bas-Auran area, southern Subalpine Chains, France (43° 57′ 38″ N 6° 18′ 55″ E). The base of the stage and Zigzag Zone corresponds to the first occurrence level of _Gonolkites convergens_ Buckman and coincides with the first occurrence of _Morphoceras parvum_ Wetzel.
 
 Full details are [published](http://www.episodes.org/index.php/epi/article/view/64041) in Fernandez-Lopez, S.R. 2009. The Global Boundary Stratotype Section and Point (GSSP) for Base of the Bathonian Stage (Middle Jurassic), Ravin du Bes Section, SE France, _Episodes_, v. 32, p. 222-248.
 
 
 #### Bajocian
+<div style="height:20px; width:100%; background-color:#9CE3F1; display:block;">&nbsp;</div>
 The Global boundary Stratotype Section and Point (GSSP) for the Bajocian Stage, formally defined at the base of bed AB11 of the Murtinheira section at Cabo Mondego, Portugal (40° 11′ 57″ N 8° 54′ 15″ W)
 
 The position of the boundary coincides with the first occurrence of the ammonite assemblage characterized by _Hyperhoceras mundum_ and related species (_H. furcatum, Bratinsina aspera, B. elegantula_). The boundary lies just below the nanno-horizon of the entry of _Waunaueria communis_ and _W. fossacincta_, and closely corresponds with a reversal to normal polarity. scale.  An Auxiliary Stratotype Point (ASP) is also selected at the base of bed U10 of the Bearreraig Bay section on the Isle of Skye, Scotland, as the complementary referencefor the palaeobiological key of the Bajocian lower boundary, i.e. the evolutionary transition _Graphoceras–Hyperhoceras_.
@@ -104,12 +110,14 @@ Full details are [published](http://www.episodes.org/index.php/epi/article/view/
 
 
 #### Aalenian
+<div style="height:20px; width:100%; background-color:#8DE0F0; display:block;">&nbsp;</div>
 The Global Boundary Stratotype Section and Point (GSSP) for the Aalenian Stage is formally defined at the base of bed FZ107 in the Fuentelsaz section, Castilian Branch of the Iberian Range, Spain (41˚10’15″N 1˚50′ 0″ W). The position of the boundary coincides with the first occurrence of the ammonite assemblage characterized by _Leioceras opalinum_ and _Leioceras lineatum_ and corresponds with a normal polarity interval.
 
 A full account is [published](http://www.episodes.org/index.php/epi/article/view/62651/48862) in Cresta et al. (2001) The Global Boundary Stratotype Section and Point (GSSP) of the Toarcian-Aalenian Boundary (Lower-Middle Jurassic), _Episodes_, v. 24, p. 166-175.
 
 
 #### Toarcian
+<div style="height:20px; width:100%; background-color:#8DD8F4; display:block;">&nbsp;</div>
 The Global Stratotype Section and Point (GSSP) for the base of Toarcian Stage is proposed at the base of limestone Bed 15e at Ponta do Trovão, in the Peniche section (39º22’15’’ N, 9º23’07’’ W) (Lusitanian Basin, Portugal) located 80 km north of Lisbon.
 
 The base of the Toarcian Stage is marked by the FO of the ammonite _Dactylioceras (Eodactylites) simplex_. Co-occurring species, which help to define the lower part of the Polymorphum Zone in the absence of _D. (E.) simplex_, include _D. (E.) pseudocommune_ and _D. (E.) polymorphum_. The ammonite association of _D. (Eodactylites)_ ssp. and other species e.g. _Protogrammoceras (Paltarpites) cf. paltum, Lioceratoides aff. balinense and Tiltoniceras aff. capillatum_ is particularly significant for the boundary definition.
@@ -120,12 +128,14 @@ A full description is currently in preparation.
 
 
 #### Pleinsbachian
+<div style="height:20px; width:100%; background-color:#70D1F3; display:block;">&nbsp;</div>
 The Global Boundary Stratotype Section and Point (GSSP) for the base of the Pliensbachian Stage (Lower Jurassic) is at the base of bed 73b of Hesselbo and Jenkyns (1995) in the Wine Haven section, Robin Hood’s Bay, Yorkshire, UK (54° 24′ 23.9″ N 0° 29′ 44.5″ W). This level contains the characteristic ammonite association _Bifericeras donovani_ Dommergues and Meister and _Apoderoceras sp._
 
 A full account is published in [Meister, C. et al. (2006)](http://www.episodes.org/index.php/epi/article/view/62234) The Global Boundary Stratotype Section and Point (GSSP) for the Base of the Pliensbachian Stage (Lower Jurassic), Wine Haven, Yorkshire, UK. Episodes v. 29, p. 93-106.
 
 
 #### Sinemurian
+<div style="height:20px; width:100%; background-color:#54CBF1; display:block;">&nbsp;</div>
 The Global Stratotype Section and Point (GSSP) for the base of the Sinemurian, the second stage of the Lower Jurassic, is exposed in the cliff north of East Quantoxhead, about 6 km east of Watchet, Somerset, England (51° 11′ 27.7″ N  3° 14′ 11.6″ W). The boundary level is 0.90 m above the base of British Geological Survey Bed 145 of coinciding with the first appearance of the genera Vermiceras (_V. quantoxense, V. palmeri_) and _Metophioceras_ (_M. sp. indet._ 1).
 
 A full account is published in [Bloos, G and Page K.N. 2002](http://www.episodes.org/index.php/epi/article/view/62498). Global Stratotype Section and Point for base of the Sinemurian Stage (Lower Jurassic). _Episodes_ v. 25, p. 22-28.
@@ -133,6 +143,7 @@ A full account is published in [Bloos, G and Page K.N. 2002](http://www.episodes
 
 <a id="base"></a> 
 #### Hettangian and base of the Jurassic
+<div style="height:20px; width:100%; background-color:#1AC4EC; display:block;">&nbsp;</div>
 The Global Stratotype Section and Point (GSSP) defining the base of the Jurassic System, Lower Jurassic Epoch, and Hettangian Stage is situated at the Kuhjoch pass, Karwendel Mountains, Northern Calcareous Alps, Austria (47°29’02″N/11°31’50″E). The Triassic-Jurassic (T-J) boundary is exposed at Kuhjoch West and at Kuhjoch East, and corresponds to the first occurrence of the ammonite _Psiloceras spelae tirolicum_.
 
 A full account is published in:
