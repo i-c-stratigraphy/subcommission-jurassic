@@ -6,13 +6,13 @@ permalink: /our-work
 ## Our Work
 Our work falls into three areas:
 
-1. The research of working groups to [define the base of each of the Jurassic stages](http://wp.me/P71GND-13).
-2. [Working groups on other aspects of the Jurassic](http://wp.me/P71GND-6f).
+1. The research of working groups to [define the base of each of the Jurassic stages](#stage-working-groups-and-gssps).
+2. [Working groups on other aspects of the Jurassic](#other-working-groups).
 3. Organization of conference sessions, workshops and the international conference for ISJS that is held every 4 years to facilitate research on the Jurassic.
 
 The next ISJS conference will be held in Hungary in 2022. We usually organise a session at the international stratigraphy conference facilitated by ICS (STRATI). The last [STRATI was in July 2019 in Milan](http://www.strati2019.it/).
 
-Research on the Jurassic by the executive of ISJS and voting members of the ISJS can be found under their individual webpages listed on the [members page](http://wp.me/P71GND-5). The journal _[Volumina Jurassica](http://voluminajurassica.org/index.php?p=1)_ is also a good place to find out who else is publishing research on the Jurassic.
+Research on the Jurassic by the executive of ISJS and voting members of the ISJS can be found under their individual webpages listed on the [members page](members). The journal _[Volumina Jurassica](http://voluminajurassica.org/index.php?p=1)_ is also a good place to find out who else is publishing research on the Jurassic.
 
 
 ### Stage working groups and GSSPs
