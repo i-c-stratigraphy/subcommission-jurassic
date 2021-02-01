@@ -18,6 +18,7 @@ permalink: /jurassifacts
 * The Jurassic is the only geological period to give its name to a major feature film franchise
 * The Jurassic is the only geological period with a World Heritage Site (The Jurassic Coast of southern England)
 * Many of the World’s most important historic cities are built using Jurassic stone – including Jaiselmeer and Oxford
+* There are four GSSPs in the Jurassic still to be defined
 
 
 <a href="images/coe-ham-hill-stonecoe-ham-hill-stonedsc_0162-1.jpg"><img src="images/coe-ham-hill-stonecoe-ham-hill-stonedsc_0162-1.jpg" alt="ammonite" style="width:40%" /></a>
