@@ -56,7 +56,7 @@ Kimmeridge Bay, Dorset, UK
 #### Kimmeridgian
 The working definition of the base of the Kimmeridgian Stage is the base of the the Subboreal _baylei_ ammonite Zone (in particular the base of the _Pictonia flodigarriensis_ horizon, which is also marked by the appearance by the oldest Boreal _Plasmatites_). This horizon, where it occurs in the Staffin Bay section on the Isle of Skye, Scotland, UK, has been agreed by the working group as the candidate GSSP.
 
-The formal proposal for this candidate GSSP has now been accepted by the voting members of ISJS  and is just being finalised for submission to ICS.
+The formal proposal for this candidate GSSP was accepted by the voting members of ISJS and is currently with ICS and IUGS.
 
 There is a report of the Kimmeridgian working group ([Wierbowski, 2015](http://voluminajurassica.org/abstracted.php?level=5&ICID=1185698)) and several relevant papers have been published in _Volumina Jurassic_ since then.
 
