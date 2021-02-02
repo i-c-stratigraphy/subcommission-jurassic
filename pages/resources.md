@@ -44,7 +44,7 @@ The ISJS Newsletters from 1978 to 1988 and from 1999 to 2010 are available for d
 * [Newsletter 9](files/isjs-newsletter-no-9.pdf) (1986)
 * [Newsletter 10](files/isjs-newsletter-no-10.pdf) (1987)
 * [Newsletter 11](files/isjs-newsletter-no-11.pdf) (1988)
-The interveneing newsletters (1989 to 1998) are currently being digitized.
+* The intervening newsletters (1989 to 1998) are currently being digitized.
 * [Newsletter 27](files/isjs-newsletter-no-27.pdf) (1999)
 * [Newsletter 28](files/isjs-newsletter-no-28.pdf) (2001)
 * [Newsletter 29](files/isjs-newsletter-no-29.pdf) (2002)
