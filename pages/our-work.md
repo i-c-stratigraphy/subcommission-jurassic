@@ -78,7 +78,7 @@ The working group for definition of the base of the Oxfordian Stage is convened 
 
 Papers on sections that are also relevant include:
 Dubki section, Saratov area, Russia
-* KISELEV, D., ROGOV, M., GLINSKIKH, L., GUZHIKOV, A., PIMENOV, M., MIKHAILOV, A., DZYUBA, O., MATVEEV, A., & TESAKOVA, E. (2019). Integrated stratigraphy of the reference sections for the Callovian-Oxfordian boundary in European Russia. Volumina Jurassica, 11(1), 59 - 96. Retrieved from <https://vjs.pgi.gov.pl/article/view/26587>
+* Kiselev, D., Rogov, M., Glinskokh, L., Guzhikov, A., Pimenov, M., Mikhailov, A., Dzyuba, O., Matveev, A., & Tesakova, E. (2019). Integrated stratigraphy of the reference sections for the Callovian-Oxfordian boundary in European Russia. Volumina Jurassica, 11(1), 59 - 96. Retrieved from <https://vjs.pgi.gov.pl/article/view/26587>
 
 
 <div style="height:10px; width:100%; background-color:#8DD8F4; display:block;">&nbsp;</div>
@@ -166,6 +166,7 @@ A full account is published in:
     <img src="images/monnigbase-jurassic-kujoch-gssp-20_8_2011people-s.jpg" alt="Monnigbase Jurassic people" /><br />
     <span>The „Golden Spike“, marking the base of the Jurassic System. József Pálfy (Chairman ISJS) and Stan Finney (Chairman ISC) on the left side are sitting in Triassic beds, while Axel von Hillebrandt, Leo Krystyn (both Hettangian Working Group) and Nicol Morton (former Chairman ISJS) on the right side have their feet in the Jurassic. The beds are overturned. Photo: Stefanie Mönnig (20.8.2011).</span>
 </div>
+
 
 <div style="height:20px; width:100%; background-color:#8DD8F4; display:block;">&nbsp;</div>
 ### Other working groups
