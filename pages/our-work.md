@@ -18,7 +18,7 @@ The next ISJS conference will be held in Hungary in 2022. We usually organise a 
 
 Research on the Jurassic by the executive of ISJS and voting members of the ISJS can be found under their individual webpages listed on the [members page](members). The journal _[Volumina Jurassica](http://voluminajurassica.org/index.php?p=1)_ is also a good place to find out who else is publishing research on the Jurassic.
 
-
+<div style="height:20px; width:100%; background-color:#8DD8F4; display:block;">&nbsp;</div>
 ### Stage working groups and GSSPs
 One of the major aims of the ISJS is to define all the Global Stratotypes, Sections and Points (GSSPs) for the Jurassic. Most of the research work is completed through working groups for each of the stages. This web page provides links to key information on:
 
@@ -167,7 +167,7 @@ A full account is published in:
     <span>The „Golden Spike“, marking the base of the Jurassic System. József Pálfy (Chairman ISJS) and Stan Finney (Chairman ISC) on the left side are sitting in Triassic beds, while Axel von Hillebrandt, Leo Krystyn (both Hettangian Working Group) and Nicol Morton (former Chairman ISJS) on the right side have their feet in the Jurassic. The beds are overturned. Photo: Stefanie Mönnig (20.8.2011).</span>
 </div>
 
-
+<div style="height:20px; width:100%; background-color:#8DD8F4; display:block;">&nbsp;</div>
 ### Other working groups
 #### Geoconservation
 Convenor: Kevin Page
