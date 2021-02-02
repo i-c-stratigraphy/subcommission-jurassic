@@ -23,8 +23,8 @@ Research on the Jurassic by the executive of ISJS and voting members of the ISJS
 ### Stage working groups and GSSPs
 One of the major aims of the ISJS is to define all the Global Stratotypes, Sections and Points (GSSPs) for the Jurassic. Most of the research work is completed through working groups for each of the stages. This web page provides links to key information on:
 
-1. All the Jurassic boundaries that have been formally defined through the work of ISJS and ratified by the International Commission on Stratigraphy
-2. The status of the boundaries that are currently in progress.
+1. All the Jurassic boundaries that have been formally defined. Each of these boundaries have, firstly, been researched, defined and voted on by ISJS and the associated working groups, secondly, received peer review and been voted on by the International Commission on Stratigraphy and, thirdly, received ratification by the International Union of Geological Sciences. 
+2. The status of the boundaries that are currently in progress towards formal definition.
 
 * [Tithonian](#tithonian) – not yet formally defined
 * [Kimmeridgian](#kimmeridgian) – not yet formally defined
