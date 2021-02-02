@@ -50,11 +50,11 @@ The convenor of the Tithonian Working Group is Federico Olóriz Sáez, Departame
 **Papers on sections that are also relevant include:**
 
 Gorodischi section, Ulianovsk area, Russia
-* Rogov M.A. (2010) A precise ammonite biostratigraphy through the Kimmeridgian-Volgian boundary beds in the Gorodischi section (Middle Volga area, Russia), and the base of the Volgian Stage in its type area, Volumina Jurassica. Vol.VIII. P.103-130.
-* Rogov M., Zakharov V. (2014) Russian GSSP Candidate Sections for the Jurassic System // STRATI 2013. First International Congress on Stratigraphy. At the Cutting Edge of Stratigraphy. Springer Geology, P.277-281, DOI 10.1007/978-3-319-04364-7_56.
+* Rogov M.A. 2010. A precise ammonite biostratigraphy through the Kimmeridgian-Volgian boundary beds in the Gorodischi section (Middle Volga area, Russia), and the base of the Volgian Stage in its type area, _Volumina Jurassica_, Vol.VIII, p.103-130.
+* Rogov M., Zakharov V. 2014. Russian GSSP Candidate Sections for the Jurassic System // STRATI 2013. First International Congress on Stratigraphy. At the Cutting Edge of Stratigraphy. Springer Geology, p.277-281, DOI 10.1007/978-3-319-04364-7_56.
 
 Kimmeridge Bay, Dorset, UK
-* Gallois, R. W. (2011) A revised description of the lithostratigraphy of the Kimmeridgian-Tithonian and Kimmeridgian-Volgian boundary beds at Kimm
+* Gallois, R. W. 2011. A revised description of the lithostratigraphy of the Kimmeridgian-Tithonian and Kimmeridgian-Volgian boundary beds at Kimmeridge, Dorset, UK, _Geoscience in Southwest England_, v12, p228-294.
 
 
 <div style="height:5px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
@@ -72,7 +72,7 @@ The convenor of the Kimmeridgian Working Group is Andrzej Wierzbowski, Faculty o
 #### Oxfordian
 The working definition is at the base of the ammonite _Cardioceras redcliffense_ Horizon at base of the _Cardioceras scarburgense_ Subzone (_Quenstedtoceras mariae_ Zone).
 
-Candidates locations for the Global Stratotype Section and Point are at Thoux, Provence, SE France ([Pellenard _et al_. 2014](https://vjs.pgi.gov.pl/article/view/26592)) and Redcliff Point, Dorset, SW England ([Melendez & Page (2015)](https://vjs.pgi.gov.pl/article/view/26644).
+Candidates locations for the Global Stratotype Section and Point are at Thoux, Provence, SE France ([Pellenard _et al_. (2014)](https://vjs.pgi.gov.pl/article/view/26592)) and Redcliff Point, Dorset, SW England ([Melendez & Page (2015)](https://vjs.pgi.gov.pl/article/view/26644).
 
 
 The working group for definition of the base of the Oxfordian Stage is convened by Kevin Page, Camborne School of Mines, University of Exeter, Penryn Campus, Cornwall,TR10 9FE, UK K.Page[AT]exeter.ac.uk
@@ -92,8 +92,8 @@ The most recent report of progress of the Callovian working group is published i
 
 Other sections under consideration include: Prosek section, Nizhni Novgorod area, Russia
 
-* Guzhikov, A.Ya., Pimenov, M.V., Malenkina, S.Yu., Manikin, A.G., Astarkin, S.V. (2010): Paleomagnetic, petromagnetic and terrigenous-mineralogical studies of Upper Bathonian-Lower Callovian sediments in the Prosek section, Nizhni Novgorod Region, Stratigraphy and Geological Correlation, 18: 42-62.
-* Kiselev D.N. & Rogov, M.A. (2007): Stratigraphy of the Bathonian-Callovian boundary deposits in the Prosek section (Middle Volga region). Article 1. Ammonites and infrazonal biostratigraphy , Stratigraphy and Geological Correlation, 15: 485-515.
+* Guzhikov, A.Ya., Pimenov, M.V., Malenkina, S.Yu., Manikin, A.G., Astarkin, S.V. 2010. Paleomagnetic, petromagnetic and terrigenous-mineralogical studies of Upper Bathonian-Lower Callovian sediments in the Prosek section, Nizhni Novgorod Region, _Stratigraphy and Geological Correlation_, v18, p42-62.
+* Kiselev D.N. & Rogov, M.A. (2007): Stratigraphy of the Bathonian-Callovian boundary deposits in the Prosek section (Middle Volga region). Article 1. Ammonites and infrazonal biostratigraphy, _Stratigraphy and Geological Correlation_, v15, p485-515.
 
 
 <div style="height:5px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
@@ -134,14 +134,14 @@ A full account is published in [Bordalo da Rocha et al. 2016](http://www.episode
 #### Pleinsbachian
 The Global Boundary Stratotype Section and Point (GSSP) for the base of the Pliensbachian Stage (Lower Jurassic) is at the base of bed 73b of Hesselbo and Jenkyns (1995) in the Wine Haven section, Robin Hood’s Bay, Yorkshire, UK (54° 24′ 23.9″ N 0° 29′ 44.5″ W). This level contains the characteristic ammonite association <em>Bifericeras donovani</em> Dommergues and Meister and <em>Apoderoceras sp.</em>
 
-A full account is published in [Meister, C. et al. (2006)](http://www.episodes.org/journal/view.html?volume=29&number=2&spage=93&vmd=Full) The Global Boundary Stratotype Section and Point (GSSP) for the Base of the Pliensbachian Stage (Lower Jurassic), Wine Haven, Yorkshire, UK. Episodes v. 29, p. 93-106.
+A full account is published in [Meister, C. et al. 2006.](http://www.episodes.org/journal/view.html?volume=29&number=2&spage=93&vmd=Full) The Global Boundary Stratotype Section and Point (GSSP) for the Base of the Pliensbachian Stage (Lower Jurassic), Wine Haven, Yorkshire, UK. _Episodes_, v.29, p.93-106.
 
 
 <div style="height:5px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
 #### Sinemurian
 The Global Stratotype Section and Point (GSSP) for the base of the Sinemurian, the second stage of the Lower Jurassic, is exposed in the cliff north of East Quantoxhead, about 6 km east of Watchet, Somerset, England (51° 11′ 27.7″ N  3° 14′ 11.6″ W). The boundary level is 0.90 m above the base of British Geological Survey Bed 145 of coinciding with the first appearance of the genera Vermiceras (<em>V. quantoxense, V. palmeri</em>) and <em>Metophioceras</em> (<em>M. sp. indet.</em> 1).
 
-A full account is published in <a href="http://www.episodes.org/journal/view.html?volume=25&number=1&spage=22&vmd=Full">Bloos, G and Page K.N. 2002</a>. Global Stratotype Section and Point for base of the Sinemurian Stage (Lower Jurassic). <em>Episodes</em> v. 25, p. 22-28.
+A full account is published in <a href="http://www.episodes.org/journal/view.html?volume=25&number=1&spage=22&vmd=Full">Bloos, G and Page K.N. 2002</a>. Global Stratotype Section and Point for base of the Sinemurian Stage (Lower Jurassic). <em>Episodes</em> v.25, p.22-28.
  
 
 <a id="base"></a> 
@@ -151,7 +151,7 @@ The Global Stratotype Section and Point (GSSP) defining the base of the Jurassic
 
 A full account is published in:
 
-[Von Hillebrandt, A. et al. 2013](http://www.episodes.org/journal/view.html?volume=36&number=3&spage=162&vmd=Full). The Global Stratotype Sections and Point (GSSP) for the base of the Jurassic System at Kuhjoch (Karwendel Mountains, Northern Calcareous Alps, Tyrol, Austria). _Episodes_ v. 36. p. 162-198.
+[Von Hillebrandt, A. et al. 2013](http://www.episodes.org/journal/view.html?volume=36&number=3&spage=162&vmd=Full). The Global Stratotype Sections and Point (GSSP) for the base of the Jurassic System at Kuhjoch (Karwendel Mountains, Northern Calcareous Alps, Tyrol, Austria). _Episodes_ v.36. p.162-198.
 
 <div class="figure">
     <img src="images/monnigbase-jurassic-kujoch-section-s.png" alt="Monnigbase Jurassic section" /><br />
