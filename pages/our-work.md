@@ -17,6 +17,7 @@ Our work falls into the following:
 The next ISJS conference will be held in Hungary in 2022. We usually organise a session at the international stratigraphy conference facilitated by ICS (STRATI). The last [STRATI was in July 2019 in Milan](http://www.strati2019.it/).
 
 Research on the Jurassic by the executive of ISJS and voting members of the ISJS can be found under their individual webpages listed on the [members page](members). The journal _[Volumina Jurassica](http://voluminajurassica.org/index.php?p=1)_ is also a good place to find out who else is publishing research on the Jurassic.
+<br>
 
 <div style="height:8px; width:100%; background-color:#14425A; display:block;">&nbsp;</div>
 ### Stage working groups and GSSPs
