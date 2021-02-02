@@ -4,11 +4,15 @@ title: "Our Work"
 permalink: /our-work
 ---
 ## Our Work
-Our work falls into three areas:
+Our work falls into the following:
 
 1. The research of working groups to [define the base of each of the Jurassic stages](#stage-working-groups-and-gssps).
-2. [Working groups on other aspects of the Jurassic](#other-working-groups).
-3. Organization of conference sessions, workshops and the international conference for ISJS that is held every 4 years to facilitate research on the Jurassic.
+2. Working groups on [other aspects of the Jurassic](#other-working-groups).
+3. Facilitating communication on the Jurassic including organization of conference sessions, workshops and the international conference for ISJS that is held every 4 years to facilitate research on the Jurassic
+4. Supporting IGCP projects related to the Jurassic.
+5. Improving resolution and correlation of the integrated stratigraphy for the Jurassic.
+6. Furthering our understanding of the Earth system during the Jurassic.
+7. Providing an inclusive and diverse community that facilitates research aspirations at all career stages.
 
 The next ISJS conference will be held in Hungary in 2022. We usually organise a session at the international stratigraphy conference facilitated by ICS (STRATI). The last [STRATI was in July 2019 in Milan](http://www.strati2019.it/).
 
