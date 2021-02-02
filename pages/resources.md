@@ -11,6 +11,7 @@ All the resource pages can be accessed in sections below on this page.
 * [Links](#links)
 
 
+<div style="height:8px; width:100%; background-color:#14425A; display:block;">&nbsp;</div>
 ### Jurassic Timescale
 #### ICS Approved timescale
 
@@ -26,6 +27,7 @@ Gradstein, F. M., Ogg, J.G., Schmitz, Ogg, G.M. (2020) _‘The Geologic Time Sca
 
 Ogg, J.G. Timescale Creator [online] Available at <https://engineering.purdue.edu/Stratigraphy/tscreator/index/index.php> (Accessed 2 February 2021)
 
+<div style="height:8px; width:100%; background-color:#14425A; display:block;">&nbsp;</div>
 ### Newsletters
 
 At least one newsletter was produced almost every year from when the subcommission started in 1978 until 2010. These newsletters report on research related to the recognition of GSSPs, and any other science relevant to the Jurassic. From 2010 this information has been published in _[Volumina Jurassica](https://vjs.pgi.gov.pl)_ instead.
@@ -60,6 +62,7 @@ The ISJS Newsletters from 1978 to 1988 and from 1999 to 2010 are available for d
 
 **New contributions**: Please send any new material for publication in the year ahead to both the [Chair of ISJS](http://www.open.ac.uk/people/alc8#tab1) and through the manuscript submission route for _Volumina Jurassica_ following the [instructions for authors](https://vjs.pgi.gov.pl/about/submissions).
 
+<div style="height:8px; width:100%; background-color:#14425A; display:block;">&nbsp;</div>
 ### Links
 
 #### General
