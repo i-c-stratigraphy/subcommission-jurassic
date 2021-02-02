@@ -38,7 +38,7 @@ One of the major aims of the ISJS is to define all the Global Stratotypes, Secti
 * [Hettangian and base of the Jurassic](#base)
 
 
-<div style="height:20px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
+<div style="height:10px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
 #### Tithonian
 A working definition is near the base of the _Hybonoticeras hybonotum_ ammonite zone and lowest occurrence of _Gravesia_ genus, and the base of magnetic polarity chronozone M22An.
 
@@ -136,14 +136,12 @@ The Global Boundary Stratotype Section and Point (GSSP) for the base of the Plie
 A full account is published in [Meister, C. et al. (2006)](http://www.episodes.org/index.php/epi/article/view/62234) The Global Boundary Stratotype Section and Point (GSSP) for the Base of the Pliensbachian Stage (Lower Jurassic), Wine Haven, Yorkshire, UK. Episodes v. 29, p. 93-106.
 
 
-<div style="display:grid; grid-template-column: 20px auto; grid-column-gap: 10px;">
-    <div style="grid-column:1; background-color:#54CBF1; width:20px;">&nbsp;</div>
-    <div style="grid-column:2;">
-        <h4>Sinemurian</h4>
-        <p>The Global Stratotype Section and Point (GSSP) for the base of the Sinemurian, the second stage of the Lower Jurassic, is exposed in the cliff north of East Quantoxhead, about 6 km east of Watchet, Somerset, England (51° 11′ 27.7″ N  3° 14′ 11.6″ W). The boundary level is 0.90 m above the base of British Geological Survey Bed 145 of coinciding with the first appearance of the genera Vermiceras (<em>V. quantoxense, V. palmeri</em>) and <em>Metophioceras</em> (<em>M. sp. indet.</em> 1).</p>
-        <p>A full account is published in <a href="http://www.episodes.org/index.php/epi/article/view/62498">Bloos, G and Page K.N. 2002</a>. Global Stratotype Section and Point for base of the Sinemurian Stage (Lower Jurassic). <em>Episodes</em> v. 25, p. 22-28.</p>
-    </div>
-</div>
+<div style="height:20px; width:100%; background-color:#AAE7F2; display:block;">&nbsp;</div>
+#### Sinemurian
+The Global Stratotype Section and Point (GSSP) for the base of the Sinemurian, the second stage of the Lower Jurassic, is exposed in the cliff north of East Quantoxhead, about 6 km east of Watchet, Somerset, England (51° 11′ 27.7″ N  3° 14′ 11.6″ W). The boundary level is 0.90 m above the base of British Geological Survey Bed 145 of coinciding with the first appearance of the genera Vermiceras (<em>V. quantoxense, V. palmeri</em>) and <em>Metophioceras</em> (<em>M. sp. indet.</em> 1).
+
+A full account is published in <a href="http://www.episodes.org/index.php/epi/article/view/62498">Bloos, G and Page K.N. 2002</a>. Global Stratotype Section and Point for base of the Sinemurian Stage (Lower Jurassic). <em>Episodes</em> v. 25, p. 22-28.
+ 
 
 <a id="base"></a> 
 #### Hettangian and base of the Jurassic
