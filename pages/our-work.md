@@ -38,7 +38,7 @@ One of the major aims of the ISJS is to define all the Global Stratotypes, Secti
 * [Hettangian and base of the Jurassic](#base)
 
 
-<div style="height:10px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
+<div style="height:20px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
 #### Tithonian
 A working definition is near the base of the _Hybonoticeras hybonotum_ ammonite zone and lowest occurrence of _Gravesia_ genus, and the base of magnetic polarity chronozone M22An.
 
@@ -69,7 +69,7 @@ The convenor of the Kimmeridgian Working Group is Andrzej Wierzbowski, Faculty o
 
 <div style="height:20px; width:100%; background-color:#B7ECFC; display:block;">&nbsp;</div>
 #### Oxfordian
-The working definition is at the base of the ammonite Cardioceras redcliffense Horizon at base of the Cardioceras scarburgense Subzone (Quenstedtoceras mariae Zone).
+The working definition is at the base of the ammonite _Cardioceras redcliffense_ Horizon at base of the _Cardioceras scarburgense_ Subzone (_Quenstedtoceras mariae_ Zone).
 
 Candidates locations for the Global Stratotype Section and Point are at Thoux, Provence, SE France ([Pellenard _et al_. 2014](https://vjs.pgi.gov.pl/article/view/26592)) and Redcliff Point, Dorset, SW England ([Melendez & Page (2015)](https://vjs.pgi.gov.pl/article/view/26644).
 
@@ -144,8 +144,8 @@ A full account is published in <a href="http://www.episodes.org/index.php/epi/ar
  
 
 <a id="base"></a> 
-#### Hettangian and base of the Jurassic
 <div style="height:20px; width:100%; background-color:#1AC4EC; display:block;">&nbsp;</div>
+#### Hettangian and base of the Jurassic
 The Global Stratotype Section and Point (GSSP) defining the base of the Jurassic System, Lower Jurassic Epoch, and Hettangian Stage is situated at the Kuhjoch pass, Karwendel Mountains, Northern Calcareous Alps, Austria (47°29’02″N/11°31’50″E). The Triassic-Jurassic (T-J) boundary is exposed at Kuhjoch West and at Kuhjoch East, and corresponds to the first occurrence of the ammonite _Psiloceras spelae tirolicum_.
 
 A full account is published in:
