@@ -28,7 +28,7 @@ Ogg, J.G. Timescale Creator [online] Available at <https://engineering.purdue.ed
 
 ### Newsletters
 
-At least one newsletter was produced almost every year from when the subcommission started in 1978 until 2010. These newsletters report on research related to the recognition of GSSPs, and any other science relevant to the Jurassic. From 2010 this information has been published in _[Volumina Jurassica](https://vjs.pgi.gov.pl/)_ instead.
+At least one newsletter was produced almost every year from when the subcommission started in 1978 until 2010. These newsletters report on research related to the recognition of GSSPs, and any other science relevant to the Jurassic. From 2010 this information has been published in _[Volumina Jurassica](https://vjs.pgi.gov.pl)_ instead.
 
 The ISJS Newsletters from 1978 to 1988 and from 1999 to 2010 are available for download below:
 
@@ -70,8 +70,6 @@ Volumina Jurassica, a geological journal devoted to the publication of original 
 
 Newsletters on Stratigraphy <http://www.schweizerbart.de/journals/nos>
 
-Chronos <http://www.chronos.org>
-
 Jurassic palaeogeography <http://www.scotese.com/jurassic.htm>
 
 #### Regional
@@ -88,10 +86,10 @@ The Geological Society of London Stratigraphy Commission <https://www.geolsoc.or
 
 #### Visit Our Neighbours!
 
-International Subcommission on Cretaceous Stratigraphy <http://www2.mnhn.fr/hdt203/info/iscs.php>
+International Subcommission on Cretaceous Stratigraphy <https://cretaceous.stratigraphy.org>
 
-International Subcommission on Triassic Stratigraphy <http://paleo.cortland.edu/sts/>
+International Subcommission on Triassic Stratigraphy <https://albertiana-sts.org/subcommission>
 
 #### Other
 
-The Paleobiology Database <http://paleodb.org/cgi-bin/bridge.pl>
+The Paleobiology Database <https://paleobiodb.org/#/>
