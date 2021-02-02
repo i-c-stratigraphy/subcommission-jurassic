@@ -101,7 +101,7 @@ Prosek section, Nizhni Novgorod area, Russia
 #### Bathonian
 The Global boundary Stratotype Section and Point (GSSP) for the Bathonian is defined at the base of limestone bed RB071 in the Ravin du Bès Section, Bas-Auran area, southern Subalpine Chains, France (43° 57′ 38″ N 6° 18′ 55″ E). The base of the stage and Zigzag Zone corresponds to the first occurrence level of _Gonolkites convergens_ Buckman and coincides with the first occurrence of _Morphoceras parvum_ Wetzel.
 
-Full details are [published](http://www.episodes.org/index.php/epi/article/view/64041) in Fernandez-Lopez, S.R. 2009. The Global Boundary Stratotype Section and Point (GSSP) for Base of the Bathonian Stage (Middle Jurassic), Ravin du Bes Section, SE France, _Episodes_, v. 32, p. 222-248.
+Full details are published in [Fernandez-Lopez, S.R. 2009.](http://www.episodes.org/index.php/epi/article/view/64041) The Global Boundary Stratotype Section and Point (GSSP) for Base of the Bathonian Stage (Middle Jurassic), Ravin du Bes Section, SE France, _Episodes_, v. 32, p. 222-248.
 
 
 <div style="height:10px; width:100%; background-color:#8DD8F4; display:block;">&nbsp;</div>
@@ -110,14 +110,14 @@ The Global boundary Stratotype Section and Point (GSSP) for the Bajocian Stage, 
 
 The position of the boundary coincides with the first occurrence of the ammonite assemblage characterized by _Hyperhoceras mundum_ and related species (_H. furcatum, Bratinsina aspera, B. elegantula_). The boundary lies just below the nanno-horizon of the entry of _Waunaueria communis_ and _W. fossacincta_, and closely corresponds with a reversal to normal polarity. scale.  An Auxiliary Stratotype Point (ASP) is also selected at the base of bed U10 of the Bearreraig Bay section on the Isle of Skye, Scotland, as the complementary referencefor the palaeobiological key of the Bajocian lower boundary, i.e. the evolutionary transition _Graphoceras–Hyperhoceras_.
 
-Full details are [published](http://www.episodes.org/index.php/epi/article/view/62852) in G. Pavia and R. Enay. 1997. Definition of the Aalenian-Bajocian Stage boundary, _Episodes_ v. 20, p. 16-22.
+Full details are published in [G. Pavia and R. Enay. 1997.](http://www.episodes.org/index.php/epi/article/view/62852) Definition of the Aalenian-Bajocian Stage boundary, _Episodes_ v. 20, p. 16-22.
 
 
 <div style="height:10px; width:100%; background-color:#8DD8F4; display:block;">&nbsp;</div>
 #### Aalenian
 The Global Boundary Stratotype Section and Point (GSSP) for the Aalenian Stage is formally defined at the base of bed FZ107 in the Fuentelsaz section, Castilian Branch of the Iberian Range, Spain (41˚10’15″N 1˚50′ 0″ W). The position of the boundary coincides with the first occurrence of the ammonite assemblage characterized by _Leioceras opalinum_ and _Leioceras lineatum_ and corresponds with a normal polarity interval.
 
-A full account is [published](http://www.episodes.org/index.php/epi/article/view/62651/48862) in Cresta et al. (2001) The Global Boundary Stratotype Section and Point (GSSP) of the Toarcian-Aalenian Boundary (Lower-Middle Jurassic), _Episodes_, v. 24, p. 166-175.
+A full account is published in [Cresta et al. (2001)](http://www.episodes.org/index.php/epi/article/view/62651/48862) The Global Boundary Stratotype Section and Point (GSSP) of the Toarcian-Aalenian Boundary (Lower-Middle Jurassic), _Episodes_, v. 24, p. 166-175.
 
 
 <div style="height:10px; width:100%; background-color:#8DD8F4; display:block;">&nbsp;</div>
