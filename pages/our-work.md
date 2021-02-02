@@ -38,7 +38,7 @@ One of the major aims of the ISJS is to define all the Global Stratotypes, Secti
 * [Hettangian and base of the Jurassic](#base)
 
 
-<div style="height:10px; width:100%; background-color:#8DD8F4; display:block;">&nbsp;</div>
+<div style="height:10px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
 #### Tithonian
 A working definition is near the base of the _Hybonoticeras hybonotum_ ammonite zone and lowest occurrence of _Gravesia_ genus, and the base of magnetic polarity chronozone M22An.
 
@@ -56,7 +56,7 @@ Kimmeridge Bay, Dorset, UK
 * Gallois, R. W. (2011) A revised description of the lithostratigraphy of the Kimmeridgian-Tithonian and Kimmeridgian-Volgian boundary beds at Kimm
 
 
-<div style="height:10px; width:100%; background-color:#8DD8F4; display:block;">&nbsp;</div>
+<div style="height:10px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
 #### Kimmeridgian
 The working definition of the base of the Kimmeridgian Stage is the base of the the Subboreal _baylei_ ammonite Zone (in particular the base of the _Pictonia flodigarriensis_ horizon, which is also marked by the appearance by the oldest Boreal _Plasmatites_). This horizon, where it occurs in the Staffin Bay section on the Isle of Skye, Scotland, UK, has been agreed by the working group as the candidate GSSP.
 
@@ -67,7 +67,7 @@ There is a report of the Kimmeridgian working group ([Wierbowski, 2015](http://v
 The convenor of the Kimmeridgian Working Group is Andrzej Wierzbowski, Faculty of Geology, University of Warsaw, żwirki iWigury Str., 93, 02-089 Warszawa, Poland. Email: andrzej.wierzbowski@uw.edu.pl
 
 
-<div style="height:10px; width:100%; background-color:#8DD8F4; display:block;">&nbsp;</div>
+<div style="height:10px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
 #### Oxfordian
 The working definition is at the base of the ammonite _Cardioceras redcliffense_ Horizon at base of the _Cardioceras scarburgense_ Subzone (_Quenstedtoceras mariae_ Zone).
 
