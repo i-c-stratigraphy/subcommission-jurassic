@@ -11,7 +11,7 @@ permalink: /members
 * **[Emanuela Mattioli](http://lgltpe.ens-lyon.fr/ressources/pages-perso/MATTIOLI%20Emanuela/)**: Vice-Chair since 2016 (member since 2013); calcareous nannoplankton.
 * **[Gregory Pienkowski](http://www.pgi.gov.pl/sekcja-o-instytucie-virt-pghttps://www.linkedin.com/in/grzegorz-pie%C5%84kowski-005a3626/)**: Vice-Chair since 2016 (member since 2013); multidisciplinary stratigraphy, sedimentology and palaeoecology.
 
-#### Current voting members
+#### Current Voting Members
 
 * **[Viktória Baranyi](https://www.researchgate.net/profile/Viktoria_Baranyi)**: Early Jurassic palynology and vegetation history; palynostratigraphy; palaeoclimatology (since 2020).
 * **[Annachiara Bartolini](https://paleo.mnhn.fr/fr/annuaire/annachiara-bartolini-394)**: Chemostratigraphy; foraminifera; palaeoecology (since 2020).
