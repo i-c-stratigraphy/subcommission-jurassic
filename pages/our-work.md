@@ -8,10 +8,10 @@ Our work falls into the following:
 
 1. The research of working groups to [define the base of each of the Jurassic stages](#stage-working-groups-and-gssps).
 2. Working groups on [other aspects of the Jurassic](#other-working-groups).
-3. Facilitating communication on the Jurassic including organization of conference sessions, workshops and the international conference for ISJS that is held every 4 years to facilitate research on the Jurassic
+3. Facilitating communication on the Jurassic including organization of conference sessions, workshops and the international conference for ISJS that is held every 4 years to facilitate research on the Jurassic (see [Meetings](meetings))
 4. Supporting IGCP projects related to the Jurassic.
 5. Improving resolution and correlation of the integrated stratigraphy for the Jurassic.
-6. Furthering our understanding of the Earth system during the Jurassic.
+6. Furthering understanding of the Earth system during the Jurassic.
 7. Providing an inclusive and diverse community that facilitates research aspirations at all career stages.
 
 The next ISJS conference will be held in Hungary in 2022. We usually organise a session at the international stratigraphy conference facilitated by ICS (STRATI). The last [STRATI was in July 2019 in Milan](http://www.strati2019.it/).
@@ -21,9 +21,9 @@ Research on the Jurassic by the executive of ISJS and voting members of the ISJS
 
 <div style="height:8px; width:100%; background-color:#14425A; display:block;">&nbsp;</div>
 ### Stage working groups and GSSPs
-One of the major aims of the ISJS is to define all the Global Stratotypes, Sections and Points (GSSPs) for the Jurassic. Most of the research work is completed through working groups for each of the stages. This web page provides links to key information on:
+One of the major aims of the ISJS is to define all the Global Stratotypes, Sections and Points (GSSPs) for the Jurassic. Most of the research work is completed through working groups for each of the stages. This section summarises: 
 
-1. All the Jurassic boundaries that have been formally defined. Each of these boundaries have, firstly, been researched, defined and voted on by ISJS and the associated working groups, secondly, received peer review and been voted on by the International Commission on Stratigraphy and, thirdly, received ratification by the International Union of Geological Sciences. 
+1. All the Jurassic boundaries that have been formally defined and ratified. Note that each of these boundaries have, firstly, been researched, defined and voted on by ISJS and the associated working group, secondly, received peer review and been voted on by the International Commission on Stratigraphy and, thirdly, received ratification by the International Union of Geological Sciences. 
 2. The status of the boundaries that are currently in progress towards formal definition.
 
 * [Tithonian](#tithonian) – not yet formally defined
@@ -43,7 +43,7 @@ One of the major aims of the ISJS is to define all the Global Stratotypes, Secti
 #### Tithonian
 A working definition is near the base of the _Hybonoticeras hybonotum_ ammonite zone and lowest occurrence of _Gravesia_ genus, and the base of magnetic polarity chronozone M22An.
 
-Possible candidates GSSPs are at Mt. Crussol or Canjuers (SE France) and Fornazzo (Sicily, S. Italy).
+Possible candidates GSSPs considered so far are at Mt. Crussol or Canjuers (SE France) and Fornazzo (Sicily, S. Italy).
 
 The convenor of the Tithonian Working Group is Federico Olóriz Sáez, Departamento de Estratigrafía y Paleontología, Facultad de Ciencias – Universidad de Granada, Av. Fuentenueva s/n – 18071 Granada, e-mail: foloriz[AT]ugr.es
 
@@ -75,7 +75,7 @@ The working definition is at the base of the ammonite _Cardioceras redcliffense_
 Candidates locations for the Global Stratotype Section and Point are at Thoux, Provence, SE France ([Pellenard _et al_. 2014](https://vjs.pgi.gov.pl/article/view/26592)) and Redcliff Point, Dorset, SW England ([Melendez & Page (2015)](https://vjs.pgi.gov.pl/article/view/26644).
 
 
-The working group for definition of the base of the Oxfordian Stage is convened by Guillermo Meléndez, Paleontoligía, Departamento Géología, Universidad de Zaragoza, Spain, e-mail: gmelende[AT]unizar.es
+The working group for definition of the base of the Oxfordian Stage is convened by Kevin Page, Camborne School of Mines, University of Exeter, Penryn Campus, Cornwall,TR10 9FE, UK K.Page[AT]exeter.ac.uk
 
 Papers on sections that are also relevant include:
 Dubki section, Saratov area, Russia
@@ -90,9 +90,7 @@ The Callovian working group(http://jurassic.ru/callovian.htm) who are completing
 
 The most recent report of progress of the Callovian working group is published in Volumina Jurassic: [Mönnig (2014)](https://vjs.pgi.gov.pl/article/view/26602).
 
-**Other sections under consideration include:**
-
-Prosek section, Nizhni Novgorod area, Russia
+Other sections under consideration include: Prosek section, Nizhni Novgorod area, Russia
 
 * Guzhikov, A.Ya., Pimenov, M.V., Malenkina, S.Yu., Manikin, A.G., Astarkin, S.V. (2010): Paleomagnetic, petromagnetic and terrigenous-mineralogical studies of Upper Bathonian-Lower Callovian sediments in the Prosek section, Nizhni Novgorod Region, Stratigraphy and Geological Correlation, 18: 42-62.
 * Kiselev D.N. & Rogov, M.A. (2007): Stratigraphy of the Bathonian-Callovian boundary deposits in the Prosek section (Middle Volga region). Article 1. Ammonites and infrazonal biostratigraphy , Stratigraphy and Geological Correlation, 15: 485-515.
