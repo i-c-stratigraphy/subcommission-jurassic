@@ -166,7 +166,7 @@ A full account is published in:
     <img src="images/monnigbase-jurassic-kujoch-gssp-20_8_2011people-s.jpg" alt="Monnigbase Jurassic people" /><br />
     <span>The „Golden Spike“, marking the base of the Jurassic System. József Pálfy (Chairman ISJS) and Stan Finney (Chairman ISC) on the left side are sitting in Triassic beds, while Axel von Hillebrandt, Leo Krystyn (both Hettangian Working Group) and Nicol Morton (former Chairman ISJS) on the right side have their feet in the Jurassic. The beds are overturned. Photo: Stefanie Mönnig (20.8.2011).</span>
 </div>
-<hr>
+<br>
 
 
 <div style="height:8px; width:100%; background-color:#14425A; display:block;">&nbsp;</div>
