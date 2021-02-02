@@ -10,7 +10,7 @@ We are an official body of the International Commission on Stratigraphy ([ICS](h
 
 The main aims of the ISJS are:
 
-1.	The unambiguous definition, by means of agreed Global Boundary Stratotype Section and Point (GSSPs), of a hierarchy of chronostratigraphic units that provide the framework for global correlation of the Jurassic. For more information see [Stage working groups and GSSPs](/our-work#stage-working-groups-and-gssps).
+1.	The unambiguous definition, by means of agreed Global Boundary Stratotype Section and Point (GSSPs), of a hierarchy of chronostratigraphic units that provide the framework for global correlation of the Jurassic. For more information see [Stage working groups and GSSPs](our-work#stage-working-groups-and-gssps).
 2.	Provide an inclusive, diverse and supportive international community to facilitate global research and associated activities on Jurassic stratigraphy. 
 3.	Advance understanding of the evolution of the Earth system during the Jurassic including palaeogeography, palaeoclimate change, evolution of life, and sea-level change. 
 4.	Improve the resolution and correlation of the integrated stratigraphy for the Jurassic.
