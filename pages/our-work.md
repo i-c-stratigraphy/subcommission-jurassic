@@ -42,7 +42,7 @@ One of the major aims of the ISJS is to define all the Global Stratotypes, Secti
 #### Tithonian
 A working definition is near the base of the _Hybonoticeras hybonotum_ ammonite zone and lowest occurrence of _Gravesia_ genus, and the base of magnetic polarity chronozone M22An.
 
-Candidates GSSPs are at Mt. Crussol or Canjuers (SE France) and Fornazzo (Sicily, S. Italy).
+Possible candidates GSSPs are at Mt. Crussol or Canjuers (SE France) and Fornazzo (Sicily, S. Italy).
 
 The convenor of the Tithonian Working Group is Federico Olóriz Sáez, Departamento de Estratigrafía y Paleontología, Facultad de Ciencias – Universidad de Granada, Av. Fuentenueva s/n – 18071 Granada, e-mail: foloriz[AT]ugr.es
 
@@ -83,7 +83,7 @@ Dubki section, Saratov area, Russia
 
 <div style="height:20px; width:100%; background-color:#B9EBF2; display:block;">&nbsp;</div>
 #### Callovian
-The working definition is the first occurrence of the ammonite genus _Kepplerites_ (_Kosmoceratidae_) which marks the base of _Macrocephalites herveyi_ Zone in sub-Boreal province of Great Britain to southwest Germany.
+The current working definition is the first occurrence of the ammonite genus _Kepplerites_ (_Kosmoceratidae_) which marks the base of _Macrocephalites herveyi_ Zone in sub-Boreal province of Great Britain to southwest Germany.
 
 The [Callovian working group](http://jurassic.ru/callovian.htm) who are completing research to define the base of the Callovian Stage is convened by Dr. Eckhard Mönnig, Naturkunde-Museum Coburg, Park 6, D-96450 Coburg, Germany, e.moennig[AT]naturkunde-museum-coburg.de
 
@@ -128,17 +128,13 @@ The base of the Toarcian Stage is marked by the FO of the ammonite _Dactyliocera
 
 The section at Almonacid de la Cuba (Iberian Range, Spain) provides complementary data of the ammonite succession in the Northwest European Hawskerense and Paltum Subzones and magnetostratigraphical data.
 
-A full description is currently in preparation.
 
+<div style="height:20px; width:100%; background-color:#AAE7F2; display:block;">&nbsp;</div>
+#### Pleinsbachian
+The Global Boundary Stratotype Section and Point (GSSP) for the base of the Pliensbachian Stage (Lower Jurassic) is at the base of bed 73b of Hesselbo and Jenkyns (1995) in the Wine Haven section, Robin Hood’s Bay, Yorkshire, UK (54° 24′ 23.9″ N 0° 29′ 44.5″ W). This level contains the characteristic ammonite association <em>Bifericeras donovani</em> Dommergues and Meister and <em>Apoderoceras sp.</em>
 
-<div style="display:grid; grid-template-column: 20px auto; grid-column-gap: 10px; margin-bottom:10px;">
-    <div style="grid-column:1; background-color:#70D1F3; width:20px;">&nbsp;</div>
-    <div style="grid-column:2;">
-        <h4>Pleinsbachian</h4>
-        <p>The Global Boundary Stratotype Section and Point (GSSP) for the base of the Pliensbachian Stage (Lower Jurassic) is at the base of bed 73b of Hesselbo and Jenkyns (1995) in the Wine Haven section, Robin Hood’s Bay, Yorkshire, UK (54° 24′ 23.9″ N 0° 29′ 44.5″ W). This level contains the characteristic ammonite association <em>Bifericeras donovani</em> Dommergues and Meister and <em>Apoderoceras sp.</em></p>
-        <p>A full account is published in [Meister, C. et al. (2006)](http://www.episodes.org/index.php/epi/article/view/62234) The Global Boundary Stratotype Section and Point (GSSP) for the Base of the Pliensbachian Stage (Lower Jurassic), Wine Haven, Yorkshire, UK. Episodes v. 29, p. 93-106.</p>
-    </div>
-</div>
+A full account is published in [Meister, C. et al. (2006)](http://www.episodes.org/index.php/epi/article/view/62234) The Global Boundary Stratotype Section and Point (GSSP) for the Base of the Pliensbachian Stage (Lower Jurassic), Wine Haven, Yorkshire, UK. Episodes v. 29, p. 93-106.
+
 
 <div style="display:grid; grid-template-column: 20px auto; grid-column-gap: 10px;">
     <div style="grid-column:1; background-color:#54CBF1; width:20px;">&nbsp;</div>
