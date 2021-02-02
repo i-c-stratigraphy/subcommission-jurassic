@@ -66,7 +66,7 @@ The ISJS Newsletters from 1978 to 1988 and from 1999 to 2010 are available for d
 
 International Commission on Stratigraphy <https://stratigraphy.org>
 
-Volumina Jurassica, a geological journal devoted to the publication of original research papers on all aspects of the Jurassic System <http://www.voluminajurassica.org>
+Volumina Jurassica, a geological journal devoted to the publication of original research papers on all aspects of the Jurassic System <https://vjs.pgi.gov.pl/>
 
 Newsletters on Stratigraphy <http://www.schweizerbart.de/journals/nos>
 
@@ -80,7 +80,7 @@ German Subcommission on Jurassic Stratigraphy <http://www.geobiologie.uni-goetti
 
 German Commission on Stratigraphy (Deutsche Stratigraphische Kommission DSK <http://www.stratigraphie.de>
 
-The Jurassic Coast UNESCO World Heritage site <http://jurassiccoast.org>
+The Jurassic Coast Trust UNESCO World Heritage site <http://jurassiccoast.org>
 
 The Geological Society of London Stratigraphy Commission <https://www.geolsoc.org.uk/Groups-and-Networks/Commissions/Stratigraphy-Commission>
 
