@@ -14,4 +14,4 @@ The proposal for the base Kimmeridgian GSSP has been approved by the ISJS voting
 A formal proposal for the base of the Oxfordian is likely to be shaped in 2021 after successful workshops in Provence, France 2013 and Dorset, UK in 2014.
 
 #### Obituary for Arnold Zeiss
-It is with great sadness that we announce the death of the first Chair of ISJS and a highly influential palaeontologist, Arnold Zeiss, on 12th April 2020. [Arnold Zeiss obituary](/zeiss).
+It is with great sadness that we announce the death of the first Chair of ISJS and a highly influential palaeontologist, Arnold Zeiss, on 12th April 2020. [Arnold Zeiss obituary](zeiss).
