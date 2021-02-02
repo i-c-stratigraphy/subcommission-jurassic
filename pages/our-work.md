@@ -75,7 +75,7 @@ The working definition is at the base of the ammonite _Cardioceras redcliffense_
 Candidates locations for the Global Stratotype Section and Point are at Thoux, Provence, SE France ([Pellenard _et al_. (2014)](https://vjs.pgi.gov.pl/article/view/26592)) and Redcliff Point, Dorset, SW England ([Melendez & Page (2015)](https://vjs.pgi.gov.pl/article/view/26644).
 
 
-The working group for definition of the base of the Oxfordian Stage is convened by Kevin Page, Camborne School of Mines, University of Exeter, Penryn Campus, Cornwall,TR10 9FE, UK K.Page[AT]exeter.ac.uk
+The working group for definition of the base of the Oxfordian Stage is convened by Kevin Page, Camborne School of Mines, University of Exeter, Penryn Campus, Cornwall, TR10 9FE, UK. K.Page[AT]exeter.ac.uk
 
 Papers on sections that are also relevant include:
 Dubki section, Saratov area, Russia
@@ -88,7 +88,7 @@ The current working definition is the first occurrence of the ammonite genus _Ke
 
 The Callovian working group(http://jurassic.ru/callovian.htm) who are completing research to define the base of the Callovian Stage is convened by Dr. Eckhard Mönnig, Naturkunde-Museum Coburg, Park 6, D-96450 Coburg, Germany, e.moennig[AT]naturkunde-museum-coburg.de. Recent publication relevant to the Callovian are posted on the [Callovian working group](http://jurassic.ru/callovian.htm) website.
 
-The most recent report of progress of the Callovian working group is published in Volumina Jurassic: [Mönnig (2014)](https://vjs.pgi.gov.pl/article/view/26602).
+The most recent report of progress of the Callovian working group is published in _Volumina Jurassic_: [Mönnig (2014)](https://vjs.pgi.gov.pl/article/view/26602).
 
 Other sections under consideration include: Prosek section, Nizhni Novgorod area, Russia
 
@@ -175,7 +175,8 @@ A full account is published in:
 #### Geoconservation
 Convenor: Kevin Page
 
-Contact information: School of Earth, Ocean, Environmental Science, University of Plymouth, Plymouth, UK
+Contact information: Camborne School of Mines, University of Exeter, Penryn Campus, Cornwall, TR10 9FE, UK. K.Page[AT]exeter.ac.uk
+
 
 #### Liaison
 Convenor: Robert Chandler
