@@ -63,7 +63,7 @@ The working definition of the base of the Kimmeridgian Stage is the base of the 
 
 The formal proposal for this candidate GSSP was accepted by the voting members of ISJS and is currently with ICS and IUGS.
 
-There is a report of the Kimmeridgian working group ([Wierbowski, 2015](http://voluminajurassica.org/abstracted.php?level=5&ICID=1185698)) and several relevant papers have been published in _Volumina Jurassic_ since then.
+There is a report of the Kimmeridgian working group ([Wierbowski, 2015](https://vjs.pgi.gov.pl/article/view/26643)) and several relevant papers have been published in _Volumina Jurassic_ since then.
 
 The convenor of the Kimmeridgian Working Group is Andrzej Wierzbowski, Faculty of Geology, University of Warsaw, żwirki iWigury Str., 93, 02-089 Warszawa, Poland. Email: andrzej.wierzbowski@uw.edu.pl
 
