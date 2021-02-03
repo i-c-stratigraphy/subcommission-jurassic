@@ -1,5 +1,5 @@
 # Jurassic Subcommission Website
-The small website for the Neogene subcommission of the International Commission on Stratigraphy, online at <http://jurassic.stratigraphy.org>.
+The small website for the Jurassic Subcommission of the International Commission on Stratigraphy, online at <http://jurassic.stratigraphy.org>.
 
 
 ## Content

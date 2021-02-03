@@ -9,7 +9,7 @@ permalink: /zeiss
 
 On Easter Sunday (12 April) 2020, the first chairman and honorary member of ISJS, Prof. Dr. Arnold Zeiss, sadly died at the age of 91.
 
-<img src="/images/arnold-zeiss.jpg" style="width:40%;" alt="Arnold Zeiss" />  
+<img src="images/arnold-zeiss.jpg" style="width:40%;" alt="Arnold Zeiss" />  
 <p style="font-size:small;">Arnold Zeiss explores the Lower / Upper Sinemurian boundary near Coburg in Franconia in 2008 Photo: E. Mönnig</p>
 
 Arnold Zeiss was born in Munich on October 23, 1928. His father was the well-known medieval archaeologist Hans Zeiss (1898–1944), second director of the Roman-Germanic Institute in Frankfurt and from 1935 Professor at the University of Munich. Arnold therefore spent his infancy in Frankfurt and his school days in Munich. In 1944 Arnold had to interrupt high school and was drafted as an air force helper into an anti-aircraft battery. The same year his father fell on the Eastern Front in Romania after being drafted as a captain in 1942.
