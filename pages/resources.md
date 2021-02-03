@@ -79,6 +79,8 @@ Jurassic palaeogeography <http://www.scotese.com/jurassic.htm>
 
 Jurassic of Russia (includes a rich full-text library of new and old Jurassic literature) <http://jurassic.ru/eindex.htm>
 
+Interdepartmental Stratigraphic Committee of Russia <https://vsegei.ru/en/about/msk/>
+
 German Subcommission on Jurassic Stratigraphy <http://www.geobiologie.uni-goettingen.de/research/externes%20gremium/index.shtml>
 
 German Commission on Stratigraphy (Deutsche Stratigraphische Kommission DSK <http://www.stratigraphie.de>
