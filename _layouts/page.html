@@ -177,7 +177,29 @@
             "images/banner-07.jpg",
         ];
         window.onload = function () {
-            document.getElementById('banner-img').src=banners[Math.floor(banners.length*Math.random())];  
+            switch("{{page.title}}") {
+            case "Jurassifacts":
+                document.getElementById('banner-img').src=banners[1]; 
+                break;
+            case "Meetings":
+                document.getElementById('banner-img').src=banners[3]; 
+                break;
+            case "Members":
+                document.getElementById('banner-img').src=banners[4]; 
+                break;
+            case "News":
+                document.getElementById('banner-img').src=banners[5]; 
+                break;
+            case "Our Work":
+                document.getElementById('banner-img').src=banners[2]; 
+                break;
+            case "Resources":
+                document.getElementById('banner-img').src=banners[6]; 
+                break;             
+            default:  // Home 
+                document.getElementById('banner-img').src=banners[0]; 
+            }
+            // document.getElementById('banner-img').src=banners[Math.floor(banners.length*Math.random())];  
         };      
     </script>
 </head>
