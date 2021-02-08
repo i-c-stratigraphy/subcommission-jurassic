@@ -13,4 +13,4 @@ The 11th International Congress on the Jurassic System will be held in late Augu
 
 * **9th International conference on fossil insects, arthropods and amber** with an associated fieldtrip on the Mesozoic of the Erdos Basin, China. 18 to 25 April 2023. For further details see [circular](files/9th_conference_on_fossil_insects.pdf).
 
-* **STRATI**: We usually organise a session on the Jurassic at STRATI where we welcome contrbutions on all aspects of the Jurassic.
+* **STRATI**: We usually organise a session on the Jurassic at STRATI where we welcome contributions on all aspects of the Jurassic.
