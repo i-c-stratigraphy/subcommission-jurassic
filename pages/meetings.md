@@ -13,6 +13,6 @@ The 11th International Congress on the Jurassic System will be held in late Augu
  
 The workshop will be held in Lyon (France) in the context of the 27eme Réunion des Sciences de la Terre (<https://rst2020-lyon.sciencesconf.org/>) arranged by the conference organizer and ISJS co-chair Emanuela Mattioli.
 
-**9th International conference on fossil insects, arthropods and amber** with an associated fieldtrip on the Mesozoic of the Erdos Basin, China. 18 to 25 April 2023. For further details see circular.
+**9th International conference on fossil insects, arthropods and amber** with an associated fieldtrip on the Mesozoic of the Erdos Basin, China. 18 to 25 April 2023. For further details see [circular](files/9th_conference_on_fossil_insects.pdf)
 
 **STRATI**: We usually organise a session on the Jurassic at STRATI where we welcome contrbutions on all aspects of the Jurassic.
