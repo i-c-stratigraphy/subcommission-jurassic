@@ -74,7 +74,7 @@ The working definition is at the base of the ammonite _Cardioceras redcliffense_
 
 Candidates locations for the Global Stratotype Section and Point are at Thoux, Provence, SE France ([Pellenard _et al_. (2014)](https://vjs.pgi.gov.pl/article/view/26592)) and Redcliff Point, Dorset, SW England ([Melendez & Page (2015)](https://vjs.pgi.gov.pl/article/view/26644).
 
-The secretary of the group for definition of the base of the Oxfordian Stage is Kevin Page, Camborne School of Mines, University of Exeter, Penryn Campus, Cornwall, TR10 9FE, UK. K.Page[AT]exeter.ac.uk
+The chair of the working group for definition of the base of the Oxfordian Stage is Kevin Page, Camborne School of Mines, University of Exeter, Penryn Campus, Cornwall, TR10 9FE, UK. K.Page[AT]exeter.ac.uk
 
 Papers on sections that are also relevant include:
 Dubki section, Saratov area, Russia
