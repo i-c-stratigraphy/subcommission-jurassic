@@ -5,7 +5,7 @@ permalink: /news
 ---
 ## News
 
-#### Ratification of the Global Stratotype Section and Point (GSSP) for the Base Kimmeridgian (17 February 2021)
+#### Ratification of the Global Stratotype Section and Point (GSSP) for the base Kimmeridgian (17 February 2021)
 We are delighted to announce that our proposal for the Global Stratotype Section and Point (GSSP) for the Base Kimmeridgian has been ratified. The proposal received unanimous support from all the voting members of the International Commission on Stratigraphy ([ICS](https://stratigraphy.org/)). It was then recommended to the International Union of Geological Sciences ([IUGS](https://www.iugs.org/)) Executive Committee who also voted unanimously to ratify the proposal. 
 
 The GSSP will be placed 1.25 ± 0.01 m below the base of Bed 36 in the foreshore at Flodigarry, Staffin Bay, Isle of Skye, Scotland, UK. It is marked by the appearance over a short stratigraphic interval of several new ammonite taxa that delineate the base of the Subboreal ammonite Baylei Zone, the base of the Densicostata Subzone marked by the base of the *flodigarriensis* horizon, and, independently, the base of the Boreal ammonite Bauhini Zone.
