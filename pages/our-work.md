@@ -27,7 +27,7 @@ One of the major aims of the ISJS is to define all the Global Stratotypes, Secti
 2. The status of the boundaries that are currently in progress towards formal definition.
 
 * [Tithonian](#tithonian) – not yet formally defined
-* [Kimmeridgian](#kimmeridgian) – not yet formally defined
+* [Kimmeridgian](#kimmeridgian)
 * [Oxfordian](#oxfordian) – not yet formally defined
 * [Callovian](#callovian) – not yet formally defined
 * [Bathonian](#bathonian)
@@ -59,6 +59,7 @@ Kimmeridge Bay, Dorset, UK
 
 <div style="height:5px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
 #### Kimmeridgian
+**NEW**
 In January 2021, the proposal for the base Kimmeridgian GSSP received unanimous support from all the voting members of the International Commission on Stratigraphy. It was then recommended to the International Union of Geological Sciences Executive Committee who, in February 2021, also voted unanimously to ratify the proposal. 
 
 The Global Stratotype Section and Point (GSSP) for the base of the Kimmeridgian Stage (Upper Jurassic) is placed in the upper part of Bed 35 of the Staffin Shale Formation, 1.25 ± 0.01 m below the base of Bed 36 in block F6 in the foreshore at Flodigarry, Staffin Bay, Isle of Skye, Scotland. The coordinates for the middle part of the two adjacent sections (sections F6N and F6S) are 57° 39′ 39.5″ N, 6° 14′ 43.9″ W and 57° 39′ 40.5″ N, 6° 14′ 45″ W; UK National Grid Scheme NG 4687 7139 and NG 4687 7142 ± 5 m. 
