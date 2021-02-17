@@ -14,7 +14,7 @@ Further detail is provided under Kimmeridgian on the Our Work page.
 
 Any enquiries should be sent in the first instance to the ISJS chair Angela.Coe[AT]open.ac.uk
 
-The convenor of the working group was Andrzej Wierzbowski, Faculty of Geology, University of Warsaw, Poland. Email: awwierzb[AT]uw.edu.pl
+The convenor of the working group was Andrzej Wierzbowski, Faculty of Geology, University of Warsaw, Poland. awwierzb[AT]uw.edu.pl
 
 The Kimmeridgian Working Group are congratulated on their careful and insightful work.
 
