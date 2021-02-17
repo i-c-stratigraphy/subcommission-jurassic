@@ -10,7 +10,7 @@ We are delighted to announce that our proposal for the Global Stratotype Section
 
 The GSSP will be placed 1.25 ± 0.01 m below the base of Bed 36 in the foreshore at Flodigarry, Staffin Bay, Isle of Skye, Scotland, UK. It is marked by the appearance over a short stratigraphic interval of several new ammonite taxa that delineate the base of the Subboreal ammonite Baylei Zone, the base of the Densicostata Subzone marked by the base of the *flodigarriensis* horizon, and, independently, the base of the Boreal ammonite Bauhini Zone.
 
-Further detail is provided under Kimmeridgian on the [Our Work page](/our-work).
+Further details are provided under Kimmeridgian on the [Our Work page](/our-work).
 
 Any enquiries should be sent in the first instance to the ISJS chair Angela.Coe[AT]open.ac.uk
 
