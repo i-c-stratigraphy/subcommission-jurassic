@@ -59,13 +59,17 @@ Kimmeridge Bay, Dorset, UK
 
 <div style="height:5px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
 #### Kimmeridgian
-The working definition of the base of the Kimmeridgian Stage is the base of the the Subboreal _baylei_ ammonite Zone (in particular the base of the _Pictonia flodigarriensis_ horizon, which is also marked by the appearance by the oldest Boreal _Plasmatites_). This horizon, where it occurs in the Staffin Bay section on the Isle of Skye, Scotland, UK, has been agreed by the working group as the candidate GSSP.
+In January 2021, the proposal for the base Kimmeridgian GSSP received unanimous support from all the voting members of the International Commission on Stratigraphy. It was then recommended to the International Union of Geological Sciences Executive Committee who in February 2021 also voted unanimously to ratify the proposal. 
 
-The formal proposal for this candidate GSSP was accepted by the voting members of ISJS and is currently with ICS and IUGS.
+The Global Stratotype Section and Point (GSSP) for the base of the Kimmeridgian Stage (Upper Jurassic) is placed in the upper part of Bed 35 of the Staffin Shale Formation, 1.25 ± 0.01 m below the base of Bed 36 in block F6 in the foreshore at Flodigarry, Staffin Bay, Isle of Skye, Scotland. The coordinates for the middle part of the two adjacent sections (sections F6N and F6S) are 57° 39’ 39.5’’ N, 6° 14’ 43.9’’ W and 57° 39’ 40.5’’ N, 6° 14’ 45’’ W; UK National Grid Scheme NG 4687 7139 and NG 4687 7142 ± 5 m. 
 
-There is a report of the Kimmeridgian working group ([Wierbowski, 2015](https://vjs.pgi.gov.pl/article/view/26643)) and several relevant papers have been published in _Volumina Jurassic_ since then.
+This proposed stratigraphic point coincides with the appearance over a short stratigraphic interval of several new ammonite taxa that delineate the base of the Subboreal ammonite Baylei Zone, the base of the Densicostata Subzone marked by the base of the *flodigarriensis* horizon, and, independently, the base of the Boreal ammonite Bauhini Zone. The main advantages of this locality are: the presence of a dual ammonite zonation marked by two extensively studied, well-preserved and very abundant groups of ammonites, and their preservation within a continuous section of ~120 m of open marine, fossiliferous, thermally immature mudrocks with no evidence of condensation or stratigraphic gaps. Dinoflagellate cysts, magnetostratigraphy and stable isotope data from the same section provide auxiliary markers. The thermal immaturity and unweathered nature of the strata in the Flodigarry section has permitted a direct Re-Os radiometric age of 154.1 ± 2.2 Ma to be obtained from the mudrocks 0.05 m below the proposed Kimmeridgian boundary. The corresponding stratigraphic level in the Submediterranean-Mediterranean successions is close to the boundary between the Hypselum and Bimammatum ammonite zones. 
 
-The convenor of the Kimmeridgian Working Group is Andrzej Wierzbowski, Faculty of Geology, University of Warsaw, żwirki iWigury Str., 93, 02-089 Warszawa, Poland. Email: andrzej.wierzbowski@uw.edu.pl
+A full account is currently being prepared for publication in *Episodes*.
+
+Any enquiries can be sent in the first instance to the ISJS chair Angela.Coe[AT]open.ac.uk
+
+The convenor of the Kimmeridgian Working Group was Andrzej Wierzbowski, Faculty of Geology, University of Warsaw, Poland. awwierzb[AT]uw.edu.pl
 
 
 <div style="height:5px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
