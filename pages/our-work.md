@@ -83,7 +83,7 @@ The chair of the working group for definition of the base of the Oxfordian Stage
 
 Papers on sections that are also relevant include:
 Dubki section, Saratov area, Russia
-* Kiselev, D., Rogov, M., Glinskokh, L., Guzhikov, A., Pimenov, M., Mikhailov, A., Dzyuba, O., Matveev, A., & Tesakova, E. (2019). Integrated stratigraphy of the reference sections for the Callovian-Oxfordian boundary in European Russia. Volumina Jurassica, 11(1), 59 - 96. Retrieved from <https://vjs.pgi.gov.pl/article/view/26587>
+* Kiselev, D., Rogov, M., Glinskokh, L., Guzhikov, A., Pimenov, M., Mikhailov, A., Dzyuba, O., Matveev, A., & Tesakova, E. (2013). Integrated stratigraphy of the reference sections for the Callovian-Oxfordian boundary in European Russia. Volumina Jurassica, 11(1), 59 - 96. Retrieved from <https://vjs.pgi.gov.pl/article/view/26587>
 
 
 <div style="height:5px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
