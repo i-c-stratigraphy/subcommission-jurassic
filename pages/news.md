@@ -5,6 +5,9 @@ permalink: /news
 ---
 ## News
 
+#### The Global Stratotype Section and Point (GSSP) for the base Kimmeridgian is announced on the the International Union of Geological Sciences (IUGS) website (15 March 2021)
+A brief news article on our latest GSSP has been posted in the news feed of the [International Union of Geological Sciences](https://www.iugs.org/). The main [IUGS Kimmeridgian GSSP article](https://98ca4554-1361-4fb1-a4d8-a1bb16d032e6.filesusr.com/ugd/f1fc07_08ca190c57374ef2bff5a0934205688b.pdf?index=true).
+
 #### Ratification of the Global Stratotype Section and Point (GSSP) for the base Kimmeridgian (17 February 2021)
 We are delighted to announce that our proposal for the Global Stratotype Section and Point (GSSP) for the Base Kimmeridgian has been ratified. The proposal received unanimous support from all the voting members of the International Commission on Stratigraphy ([ICS](https://stratigraphy.org/)). It was then recommended to the International Union of Geological Sciences ([IUGS](https://www.iugs.org/)) Executive Committee who also voted unanimously to ratify the proposal. 
 
