@@ -32,7 +32,7 @@ Ogg, J.G. Timescale Creator [online] Available at <https://engineering.purdue.ed
 
 At least one newsletter was produced almost every year from when the subcommission started in 1978 until 2010. These newsletters report on research related to the recognition of GSSPs, and any other science relevant to the Jurassic. From 2010 this information has been published in _[Volumina Jurassica](https://vjs.pgi.gov.pl)_ instead.
 
-The ISJS Newsletters from 1978 to 1988 and from 1999 to 2010 are available for download below. We are particularly grateful to Eckhard Mönnig, Naturkunde-Museum, Coburg, Germany who has spent many hours expertly digitising all of these newsletters.  
+The ISJS Newsletters from 1978 to 2010 are available for download below. We are particularly grateful to Eckhard Mönnig, Naturkunde-Museum, Coburg, Germany who has spent many hours expertly digitising all of these newsletters.  
 
 
 * [Newsletter 1](files/isjs-newsletter-no-1.pdf) (July 1978)
