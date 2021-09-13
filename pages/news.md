@@ -6,7 +6,7 @@ permalink: /news
 ## News
 
 #### The 11th International Congress on the Jurassic System (*13 September 2021*)
-> We are pleased to invite all members of the Jurassic family to Hungary for the 2022 Jurassic Congress. This will take place from August 29 to September 2, 2022 in Budapest. Details of the meeting can be found on the [Meetings](/meetings) page, and at the official Congress [website](https://jurassic2022.hu/). 
+> We are pleased to invite all members of the Jurassic family to Hungary for the next Jurassic Congress. This will take place from August 29 to September 2, 2022 in Budapest. Details of the meeting can be found on the [Meetings](/meetings) page, and at the official Congress [website](https://jurassic2022.hu/). 
 
 #### The Global Stratotype Section and Point (GSSP) for the base Kimmeridgian is announced on the the International Union of Geological Sciences (IUGS) website (*15 March 2021*)
   > A brief news article on our latest GSSP has been posted in the news feed of the [International Union of Geological Sciences](https://www.iugs.org/). The main [IUGS Kimmeridgian GSSP article](https://98ca4554-1361-4fb1-a4d8-a1bb16d032e6.filesusr.com/ugd/f1fc07_08ca190c57374ef2bff5a0934205688b.pdf?index=true).
