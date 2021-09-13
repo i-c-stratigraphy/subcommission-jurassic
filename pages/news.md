@@ -5,7 +5,7 @@ permalink: /news
 ---
 ## News
 
-- #### The 11th International Congress on the Jurassic System (*13 September 2021*) ####
+- #### The 11th International Congress on the Jurassic System (*13 September 2021*)a ####
   We are pleased to invite all members of the Jurassic family to Hungary for the 2022 Jurassic Congress. This will take place from August 29 to September 2, 2022 in Budapest. Details of the meeting can be found on the [Meetings](/meetings) page, and at the official Congress [website](https://jurassic2022.hu/). 
 
 - #### The Global Stratotype Section and Point (GSSP) for the base Kimmeridgian is announced on the the International Union of Geological Sciences (IUGS) website (*15 March 2021*)
