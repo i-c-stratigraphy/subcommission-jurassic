@@ -6,7 +6,7 @@ permalink: /news
 ## News
 
 #### IGCP 655  Toarcian Oceanic Anoxic Event: Impact on marine carbon cycle and ecosystem (*18 November 2021*)
-> Research from this project was published in late 2021 in [Special Publication 514 of The Geological Society of London](https://sp.lyellcollection.org/content/514/1). Many congratulations to Matias Rolid and his team for bringing this project all of this excellent research.
+> Research from this project was published in late 2021 in [Special Publication 514 of The Geological Society, London](https://sp.lyellcollection.org/content/514/1). Many congratulations to Matias Reolid and his team for bringing this project all of this excellent research.
 
 #### The 11th International Congress on the Jurassic System (*13 September 2021*)
 > We are pleased to invite all members of the Jurassic family to Hungary for the next Jurassic Congress. This will take place from August 29 to September 2, 2022 in Budapest. Details of the meeting can be found on the [Meetings](/meetings) page, and at the official Congress [website](https://jurassic2022.hu/). 
