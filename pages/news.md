@@ -5,11 +5,14 @@ permalink: /news
 ---
 ## News
 
+#### Happy New Year 
+>Happy New Year to everyone interested in the Jurassic. We are delighted that the next Jurassic Congree will be held in August/September this year and invite you all to fill in the very short survey on the conference website so that the organisers can estimate the number attending https://www.jurassic.stratigraphy.org![image](https://user-images.githubusercontent.com/74625267/148041484-086e4d50-eae5-4b81-a40e-1187836949b6.png)
+
 #### IGCP 655  Toarcian Oceanic Anoxic Event: Impact on marine carbon cycle and ecosystem (*18 November 2021*)
-> Research from this project was published in late 2021 in [Special Publication 514 of The Geological Society, London](https://sp.lyellcollection.org/content/514/1). Many congratulations to Matias Reolid and his team for bringing this project all of this excellent research.
+> Research from this project was published in late 2021 in [Special Publication 514 of The Geological Society, London](https://sp.lyellcollection.org/content/514/1). Many congratulations to Matias Reolid and his team for inspiring and bringing together all of this excellent research.
 
 #### The 11th International Congress on the Jurassic System (*13 September 2021*)
-> We are pleased to invite all members of the Jurassic family to Hungary for the next Jurassic Congress. This will take place from August 29 to September 2, 2022 in Budapest. Details of the meeting can be found on the [Meetings](/meetings) page, and at the official Congress [website](https://jurassic2022.hu/). 
+> We are pleased to invite all members of the Jurassic family to Hungary for the next Jurassic Congress. This will take place from August 29 to September 2, 2022 in Budapest. Details of the meeting can be found on the [Meetings](/meetings) page, and at the official Congress https://www.jurassic.stratigraphy.org![image](https://user-images.githubusercontent.com/74625267/148041430-e32bf1c6-b017-4e95-b7c6-5575fef38f4c.png)
 
 #### The Global Stratotype Section and Point (GSSP) for the base Kimmeridgian is announced on the the International Union of Geological Sciences (IUGS) website (*15 March 2021*)
 > A brief news article on our latest GSSP has been posted in the news feed of the [International Union of Geological Sciences](https://www.iugs.org/). The main [IUGS Kimmeridgian GSSP article](https://98ca4554-1361-4fb1-a4d8-a1bb16d032e6.filesusr.com/ugd/f1fc07_08ca190c57374ef2bff5a0934205688b.pdf?index=true).
