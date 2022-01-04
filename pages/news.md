@@ -5,8 +5,8 @@ permalink: /news
 ---
 ## News
 
-#### Happy New Year 
->Happy New Year to everyone interested in the Jurassic. We are delighted that the next Jurassic Congree will be held in August/September this year and invite you all to fill in the very short survey on the conference website so that the organisers can estimate the number attending [Jurassic 2022](https://jurassic2022.hu/)
+#### Happy New Year (*4th January 2021*)
+>Happy New Year to everyone interested in the Jurassic. We are delighted that the next Jurassic Congress will be held in August/September this year and invite you all to fill in the very short survey on the conference website so that the organisers can estimate the number of delegates attending [Jurassic 2022](https://jurassic2022.hu/).
 
 #### IGCP 655  Toarcian Oceanic Anoxic Event: Impact on marine carbon cycle and ecosystem (*18 November 2021*)
 > Research from this project was published in late 2021 in [Special Publication 514 of The Geological Society, London](https://sp.lyellcollection.org/content/514/1). Many congratulations to Matias Reolid and his team for inspiring and bringing together all of this excellent research.
