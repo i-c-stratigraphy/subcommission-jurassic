@@ -5,6 +5,9 @@ permalink: /news
 ---
 ## News
 
+#### New abstract submission deadline for the 11th International Congress on the Jurassic System (*17 May 2022*)
+> The abstract submission deadline for the next Jurassic Congress, to be held from August 29 to September 2 in Budapest, is <span style="color: red;">**15th June**</span>. Instructions for preparing abstracts and full details of how to submit can be found on the official [Congress website](https://jurassic2022.hu/).
+
 #### Happy New Year (*4th January 2022*)
 >Happy New Year to everyone interested in the Jurassic. We are delighted that the next Jurassic Congress will be held in August/September this year and invite you all to fill in the very short survey on the conference website so that the organisers can estimate the number of delegates attending [Jurassic 2022](https://jurassic2022.hu/).
 
