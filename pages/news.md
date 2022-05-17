@@ -5,7 +5,7 @@ permalink: /news
 ---
 ## News
 
-#### Happy New Year (*4th January 2021*)
+#### Happy New Year (*4th January 2022*)
 >Happy New Year to everyone interested in the Jurassic. We are delighted that the next Jurassic Congress will be held in August/September this year and invite you all to fill in the very short survey on the conference website so that the organisers can estimate the number of delegates attending [Jurassic 2022](https://jurassic2022.hu/).
 
 #### IGCP 655  Toarcian Oceanic Anoxic Event: Impact on marine carbon cycle and ecosystem (*18 November 2021*)
