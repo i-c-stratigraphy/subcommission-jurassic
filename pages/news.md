@@ -5,6 +5,9 @@ permalink: /news
 ---
 ## News
 
+#### A great success (*4 September 2022*)
+The 11th International congress on the Jurassic System held in Budapest was a great success. The conference was attended by 103 delgates from 31 countries. Particular highlights were the mega session on the Toarcian Oceanic Anoxic Event that went on for 3 days, the fantastic scientific work being done by the career young members of our community, the fieldtrips, visit to the University collections and conference dinner on the Danube where we also celebrated the 84th birthday of one of our longest standing members. We are all very grateful to Jószef Pálfy and István Fözy for making this such a spectacular and memorable Jurassic family re-union. We missed our Jurassic colleagues that were unable to attend and hope that we might see you at the next congress in 2026. Photographs from the event can be found on the [congress website](https://jurassic2022.hu/). 
+
 #### The 11th International Congress on the Jurassic System - 28th August to 2nd September (*26 August 2022*)
 > We look forward to welcoming members of the Jurassic family to Hungary for the 11th International Jurassic Congress, which begins on 28th August in Budapest. Delegates can find information on the congress, including the full programme, at the official [Congress website](https://jurassic2022.hu/).
 
