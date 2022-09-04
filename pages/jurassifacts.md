@@ -19,6 +19,7 @@ permalink: /jurassifacts
 * The Jurassic witnessed one of the most extreme global warming events during the Toarcian
 * About 50% of the worlds oil and gas reserves are from the Jurassic
 * There are three GSSPs in the Jurassic still to be defined
+* The boundary between the Jurassic and Cretaceous is yet to be formally defined, but work is in progress
 
 
 <a href="images/coe-ham-hill-stonecoe-ham-hill-stonedsc_0162-1.jpg"><img src="images/coe-ham-hill-stonecoe-ham-hill-stonedsc_0162-1.jpg" alt="ammonite" style="width:40%" /></a>
