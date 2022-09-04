@@ -14,7 +14,7 @@ Our work falls into the following:
 6. Furthering understanding of the Earth system during the Jurassic.
 7. Providing an inclusive and diverse community that facilitates research aspirations at all career stages.
 
-The next ISJS conference will be held in Hungary in 2022. We usually organise a session at the international stratigraphy conference facilitated by ICS (STRATI). The last [STRATI was in July 2019 in Milan](http://www.strati2019.it/).
+The next ISJS conference will be held in 2026. We organise a session at the International Stratigraphy Conference facilitated by ICS (STRATI). The last [STRATI was in July 2019 in Milan](http://www.strati2019.it/). The next one will be in Lille in 2023- see the meetings page for more information.
 
 Research on the Jurassic by the executive of ISJS and voting members of the ISJS can be found under their individual webpages listed on the [members page](members). The journal _[Volumina Jurassica](https://vjs.pgi.gov.pl/)_ is also a good place to find out who else is publishing research on the Jurassic.
 <br>
@@ -45,7 +45,7 @@ A working definition is near the base of the _Hybonoticeras hybonotum_ ammonite 
 
 Possible candidates GSSPs considered so far are at Mt. Crussol or Canjuers (SE France) and Fornazzo (Sicily, S. Italy).
 
-The convenor of the Tithonian Working Group is Federico Olóriz Sáez, Departamento de Estratigrafía y Paleontología, Facultad de Ciencias – Universidad de Granada, Av. Fuentenueva s/n – 18071 Granada, e-mail: foloriz[AT]ugr.es
+The convenor of the Tithonian Working Group is Federico Olóriz Sáez, Departamento de Estratigrafía y Paleontología, Facultad de Ciencias – Universidad de Granada, Av. Fuentenueva s/n – 18071 Granada, e-mail: foloriz[AT]ugr.es. The working group is currently being redefined so if you are interested in being considered please contact Angela Coe.
 
 **Papers on sections that are also relevant include:**
 
@@ -59,7 +59,6 @@ Kimmeridge Bay, Dorset, UK
 
 <div style="height:5px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
 #### Kimmeridgian
-**NEW**
 In January 2021, the proposal for the base Kimmeridgian GSSP received unanimous support from all the voting members of the International Commission on Stratigraphy. It was then recommended to the International Union of Geological Sciences Executive Committee who, in February 2021, also voted unanimously to ratify the proposal. 
 
 The Global Stratotype Section and Point (GSSP) for the base of the Kimmeridgian Stage (Upper Jurassic) is placed in the upper part of Bed 35 of the Staffin Shale Formation, 1.25 ± 0.01 m below the base of Bed 36 in block F6 in the foreshore at Flodigarry, Staffin Bay, Isle of Skye, Scotland. The coordinates for the middle part of the two adjacent sections (sections F6N and F6S) are 57° 39′ 39.5″ N, 6° 14′ 43.9″ W and 57° 39′ 40.5″ N, 6° 14′ 45″ W; UK National Grid Scheme NG 4687 7139 and NG 4687 7142 ± 5 m. 
@@ -88,9 +87,9 @@ Dubki section, Saratov area, Russia
 
 <div style="height:5px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
 #### Callovian
-The current working definition is the first occurrence of the ammonite genus _Kepplerites_ (_Kosmoceratidae_) which marks the base of _Macrocephalites herveyi_ Zone in sub-Boreal province of Great Britain to southwest Germany.
+The current working definition is the first occurrence of the ammonite genus _Kepplerites_ (_Kosmoceratidae_) which marks the base of _Macrocephalites herveyi_ Zone in sub-Boreal province of Great Britain to southwest Germany. 
 
-The Callovian working group(http://jurassic.ru/callovian.htm) who are completing research to define the base of the Callovian Stage is convened by Dr. Eckhard Mönnig, Naturkunde-Museum Coburg, Park 6, D-96450 Coburg, Germany, e.moennig[AT]naturkunde-museum-coburg.de. Recent publication relevant to the Callovian are posted on the [Callovian working group](http://jurassic.ru/callovian.htm) website.
+The Callovian working group(http://jurassic.ru/callovian.htm) who are completing research to define the base of the Callovian Stage is convened by Dr. Eckhard Mönnig, Naturkunde-Museum Coburg, Park 6, D-96450 Coburg, Germany, e.moennig[AT]naturkunde-museum-coburg.de. Recent publication relevant to the Callovian are posted on the [Callovian working group](http://jurassic.ru/callovian.htm) website. The working group is currently being re-shaped, if you are interested in being a member please contact Eckhard Mönnig or Angela Coe.
 
 The most recent report of progress of the Callovian working group is published in _Volumina Jurassic_: [Mönnig (2014)](https://vjs.pgi.gov.pl/article/view/26602).
 
