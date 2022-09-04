@@ -8,9 +8,6 @@ permalink: /news
 #### The 11th International Congress on the Jurassic System - 28th August to 2nd September (*26 August 2022*)
 > We look forward to welcoming members of the Jurassic family to Hungary for the 11th International Jurassic Congress, which begins on 28th August in Budapest. Delegates can find information on the congress, including the full programme, at the official [Congress website](https://jurassic2022.hu/).
 
-#### The 8th Argentinian Jurassic Symposium - March 2023 (*26 August 2022*)
-> The 8th Argentinean Jurassic Symposium (SAJ) is due to take place in March 2023. The SAJ takes place every three years, focusing on different aspects of the Jurassic System and its boundaries. Although it usually congregates Argentinean Jurassic workers, colleagues from other countries are welcome as well.
-
 #### New abstract submission deadline for the 11th International Congress on the Jurassic System (*17 May 2022*)
 > The abstract submission deadline for the next Jurassic Congress, to be held from August 29 to September 2 in Budapest, is 15th June. Instructions for preparing abstracts and full details of how to submit can be found on the official [Congress website](https://jurassic2022.hu/).
 
