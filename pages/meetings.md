@@ -10,7 +10,7 @@ permalink: /meetings
 > The 8th Argentinean Jurassic Symposium (SAJ) is due to take place in March 2023. The SAJ takes place every three years, focusing on different aspects of the Jurassic System and its boundaries. Although it usually congregates Argentinean Jurassic workers, colleagues from other countries are welcome as well.
 
 #### Jurassica XV, Iłża, Poland  - 19 to 22 September 2023
-> The Polish Geological Institute - National Research Institute, the Institute of Palaeobiology of the Polish Academy of Sciences, the State Geological Institute of Dionyz Štúr in Bratislave and the Community of Iłża will be hosting the 15th Polish-Slovakia meeting. For further information, including contact information download the first circular [Jurassica XV, Iłża, Poland 2023small.pdf](https://github.com/i-c-stratigraphy/subcommission-jurassic/files/9485131/Jurassica.XV.Ilza.Poland.2023small.pdf)
+> The Polish Geological Institute - National Research Institute, the Institute of Palaeobiology of the Polish Academy of Sciences, the State Geological Institute of Dionyz Štúr in Bratislave and the Community of Iłża will be hosting the 15th Polish-Slovakia meeting. For further information, including contact information download the first circular [Jurassica XV, Iłża, Poland 2023small.pdf](https://github.com/i-c-stratigraphy/subcommission-jurassic/files/9485182/Jurassica.XV.Ilza.Poland.2023small.pdf)
 
 #### Other meetings of relevance to Jurassic stratigraphy
 
