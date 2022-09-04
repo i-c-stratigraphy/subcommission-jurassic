@@ -14,8 +14,8 @@ permalink: /meetings
 
 #### Other meetings of relevance to Jurassic stratigraphy
 
-* **9th International conference on fossil insects, arthropods and amber** with an associated fieldtrip on the Mesozoic of the Erdos Basin, China. 18 to 25 April 2023. For further details see [circular](files/9th_conference_on_fossil_insects.pdf).
+> **9th International conference on fossil insects, arthropods and amber** with an associated fieldtrip on the Mesozoic of the Erdos Basin, China. 18 to 25 April 2023. For further details see [circular](files/9th_conference_on_fossil_insects.pdf).
 
-* **STRATI - July 2023** We will be proposing at least one session on the Jurassic at STRATI that will be held from the 11-13 July 2023 in Lille, France. We look forward to seeing you at this meeting and welcome your contributions on all aspects of the Jurassic. Further information for is available via the following link: [Strati 2023] (https://stratigraphy.org/news/141)
+> **STRATI - July 2023** We will be proposing at least one session on the Jurassic at STRATI that will be held from the 11-13 July 2023 in Lille, France. We look forward to seeing you at this meeting and welcome your contributions on all aspects of the Jurassic. Further information for is available via the following link: [Strati 2023] (https://stratigraphy.org/news/141)
 
 Please send information on other Jurassic meetings to David Kemp or Angela Coe.
