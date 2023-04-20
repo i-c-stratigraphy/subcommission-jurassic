@@ -95,7 +95,7 @@ Jurassic of Russia (includes a rich full-text library of new and old Jurassic li
 
 Interdepartmental Stratigraphic Committee of Russia <https://vsegei.ru/en/about/msk/>
 
-German Subcommission on Jurassic Stratigraphy <http://www.geobiologie.uni-goettingen.de/research/externes%20gremium/index.shtml>
+German Subcommission on Jurassic Stratigraphy <https://uni-goettingen.de/de/646965.html>
 
 German Commission on Stratigraphy (Deutsche Stratigraphische Kommission DSK <http://www.stratigraphie.de>
 
