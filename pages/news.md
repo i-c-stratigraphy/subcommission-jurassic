@@ -6,7 +6,7 @@ permalink: /news
 ## News
 
 #### Sad news: Death of Grzegorz (Gregory) Pieńkowski (*26 April 2023*)
-> We record, with great sadness, the sudden death of Grzegorz (Gregory) Pieńkowski on the 19th April 2023. Grzegorz, or Gregory as he often asked us to call him, was a hugely valued member of the Jurassic community and has provided many years of service to ISJS as the vice chair. For more information see: [Grzegorz Pieńkowski](/pieńkowski).
+> We record, with great sadness, the sudden death of Grzegorz (Gregory) Pieńkowski on the 19th April 2023. Grzegorz, or Gregory as he often asked us to call him, was a hugely valued member of the Jurassic community and has provided many years of service to ISJS as the vice chair. For more information see: [Grzegorz Pieńkowski](pieńkowski).
 
 #### A great success (*4 September 2022*)
 > The 11th International congress on the Jurassic System held in Budapest was a great success. The conference was attended by 103 delgates from 31 countries. Particular highlights were the mega session on the Toarcian Oceanic Anoxic Event that went on for 3 days, the fantastic scientific work being done by the career young members of our community, the fieldtrips, visit to the University collections and conference dinner on the Danube where we also celebrated the 84th birthday of one of our longest standing members. We are all very grateful to Jószef Pálfy and István Fözy for making this such a spectacular and memorable Jurassic family re-union. We missed our Jurassic colleagues that were unable to attend and hope that we might see you at the next congress in 2026. Photographs from the event can be found on the [congress website](https://jurassic2022.hu/). 
