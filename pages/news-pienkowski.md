@@ -18,10 +18,10 @@ The Jurassic community send their deep condolences at the loss of this wonderful
 
 Grzegorz loved to be in the field, collaborating with others and talking about his work. Below are a series of photographs of Grzegorz in the field from 9th International Jurassic in India in 2014, kindly supplied by Dhirendra Pandey.
 
-<img src="images/Pienkowski_2014_1.jpg" style="width:60%;" alt="Gregory Pienkowski" /> 
+<img src="images/Pienkowski_2014_1.jpg" style="width:80%;" alt="Gregory Pienkowski" /> 
 
-<img src="images/Pienkowski_2014_2.jpg" style="width:60%;" alt="Gregory Pienkowski" /> 
+<img src="images/Pienkowski_2014_2.jpg" style="width:80%;" alt="Gregory Pienkowski" /> 
 
-<img src="images/Pienkowski_2014_3.jpg" style="width:60%;" alt="Gregory Pienkowski" /> 
+<img src="images/Pienkowski_2014_3.jpg" style="width:80%;" alt="Gregory Pienkowski" /> 
 
-<img src="images/Pienkowski_2014_4.jpg" style="width:60%;" alt="Gregory Pienkowski" /> 
+<img src="images/Pienkowski_2014_4.jpg" style="width:80%;" alt="Gregory Pienkowski" /> 
