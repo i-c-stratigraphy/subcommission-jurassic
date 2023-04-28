@@ -15,7 +15,9 @@ This subcommission's website is hosted within the ICS's set of code repositories
 
 Running the site locally:
 
-`bundle exec jekyll serve`
+```
+bundle exec jekyll serve
+```
 
 
 ## License & Rights
@@ -39,4 +41,4 @@ The Open University, UK
 *For website technical matters:*  
 **Dr Nicholas Car**  
 ICS Webmaster  
-<nicholas.car@surroundaustralia.com>  
+<nick@kurrawong.net>  
