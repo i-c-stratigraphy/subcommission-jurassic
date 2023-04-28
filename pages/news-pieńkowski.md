@@ -1,6 +1,6 @@
 layout: page
 title: "Grzegorz Pieńkowski"
-permalink: /pieńkowski
+permalink: /pienkowski
 ---
 ## Death of Grzegorz Pieńkowski
 
