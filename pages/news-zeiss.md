@@ -5,7 +5,7 @@ permalink: /zeiss
 ---
 ## Arnold Zeiss obituary
 
-### Arnold Zeiss (1928-1920)
+### Arnold Zeiss (1928-2020)
 
 On Easter Sunday (12 April) 2020, the first chairman and honorary member of ISJS, Prof. Dr. Arnold Zeiss, sadly died at the age of 91.
 
