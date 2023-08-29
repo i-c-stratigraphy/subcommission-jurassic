@@ -9,7 +9,7 @@ permalink: /members
 * **[Angela Coe](http://www.open.ac.uk/people/alc8#tab1)**: Chair since 2020 (secretary 2013-2020); chemostratigraphy; sequence stratigraphy; palaeoclimatology; influence of environmental change on biota; regional geology of the Late Jurassic of NW Europe (member since 2008).
 * **[David Kemp](https://www.researchgate.net/profile/David_Kemp4)**: Secretary since 2020; cyclostratigraphy, chemostratigraphy; palaeoclimatology.
 * **[Emanuela Mattioli](http://lgltpe.ens-lyon.fr/ressources/pages-perso/MATTIOLI%20Emanuela/)**: Vice-Chair since 2016 (member since 2013); calcareous nannoplankton.
-* **Gregory Pienkowski**: Vice-Chair 2016- April 2023 (member since 2013); multidisciplinary stratigraphy, sedimentology and palaeoecology.
+* **Gregory Pienkowski**: Vice-Chair 2016-April 2023 (member since 2013); multidisciplinary stratigraphy, sedimentology and palaeoecology.
 
 Website contacts: Angela Coe and David Kemp
 
