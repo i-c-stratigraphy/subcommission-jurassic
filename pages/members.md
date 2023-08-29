@@ -32,7 +32,6 @@ Website contacts: Angela Coe and David Kemp
 * **[Boris Nikitenko](http://www.ipgg.sbras.ru/en/person/ipgg-nikitenkobl)**: Arctic Basin geology; Jurassic microfossils; palaeoenvironments and palaeogeography (since 2020).
 * **[Dhirendra Kumar Pandey](https://www.researchgate.net/profile/Dhirendra_Pandey2)**: Late Jurassic ammonites; Jurassic palaeontology and palaeoenvironments in India (since 2013).
 * **[Pierre Pellenard](https://pellenard.wordpress.com/)**: Sedimentology; integrated stratigraphy; chemostratigraphy; geochronology (since 2020).
-* **[Gregory Pienkowski](https://www.linkedin.com/in/grzegorz-pie%C5%84kowski-005a3626/)**: Multidisciplinary stratigraphy; sedimentology; palaeoecology (member since 2013).
 * **[Micha Ruhl](http://www.tcd.ie/Geology/people/ruhlm/)**: Cyclostratigraphy; chemostratigraphy; palaeoclimate; marine and continental depositional environments (since 2020).
 * **[Shin-ichi Sano](https://www.researchgate.net/profile/Shin-ichi_Sano)**: Middle to Late Jurassic bivalves; palaeobiogeography; regional geology of East Asia (since 2020).
 * **[Guenter Schweigert](https://naturkundemuseum-bw.de/en/research/paleontology/department-paleontology/guenter-schweigert)**: Middle and Upper Jurassic ammonites; biostratigraphy; palaeoecology; marine lagerstätten (since 2020).
