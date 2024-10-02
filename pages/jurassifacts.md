@@ -10,6 +10,8 @@ permalink: /jurassifacts
 <a href="images/coe-ammonite-toarcianimg_39443.jpg"><img src="images/coe-ammonite-toarcianimg_39443.jpg" alt="ammonite" style="width:40%" /></a>
 <p style="font-size:smaller;">An ammonite from the Toarcian, Yorkshire, UK. 10 cm across. (Image: Angela Coe)</p>
 
+![](images/coe-ammonite-toarcianimg_39443.jpg)  
+An ammonite from the Toarcian, Yorkshire, UK. 10 cm across. (Image: Angela Coe)
 
 * The Jurassic can be subdivided into more than 150 stratigraphic levels based on ammonite evolution
 * During the Jurassic there was only a single (super)continent – Pangaea
