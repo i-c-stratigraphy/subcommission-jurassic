@@ -19,3 +19,13 @@ permalink: /meetings
 > **STRATI - July 2023** We will be proposing at least one session on the Jurassic at STRATI that will be held from the 11-13 July 2023 in Lille, France. We look forward to seeing you at this meeting and welcome your contributions on all aspects of the Jurassic. Further information is available via the following link: [Strati 2023](https://stratigraphy.org/news/141)
 
 Please send information on other Jurassic meetings to one of the webmasters: David Kemp or Angela Coe.
+
+## Test Heading
+
+### Test  smaller heading
+
+This is a test paragraph. [Google](https://www.google.com)
+
+* one
+* two
+* three
