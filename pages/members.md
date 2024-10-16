@@ -24,7 +24,6 @@ Website contacts: Angela Coe and David Kemp
 * **[Alicia Fantasia]**
 * **[Matthais Franz]**
 * **[Ewa Głowniak](https://www.geo.uw.edu.pl/pl/dr-hab-ewa-glowniak)**: Late Jurassic ammonites and biostratigraphy; Sub-Mediterranean province; biochronology and bioevents; palaeobiogeography (since 2020).
-* **[Špela Goričan](http://piir.zrc-sazu.si/en/sodelavci/%C5%A1pela-gori%C4%8Dan-en#v)**: Taxonomy and biochronology of Radiolaria; stratigraphy of Mesozoic basins (voting member 2013-2024).
 * **[Jacek Grabowski](https://publons.com/researcher/2782283/jacek-grabowski/)**: Magnetic stratigraphy; Late Jurassic, gamma ray spectrometry; chemostratigraphy (since 2020).
 * **[Diying Huang](http://sourcedb.nigpas.cas.cn/en/ywrck/200907/t20090728_2280913.html)**: Mesozoic terrestrial stratigraphy; Chinese Jurassic; Chemostratigraphy and biostratigraphy; Fossil insects (since 2020).
 * **[David Kemp](https://www.researchgate.net/profile/David_Kemp4)**: Cyclostratigraphy; chemostratigraphy; palaeoclimatology (member since 2020, secretary 2020-).
