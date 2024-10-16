@@ -31,6 +31,7 @@ Website contacts: Angela Coe and David Kemp
 * **[Xin Li]**
 * **[Abbas Marok](https://abbasmarok.univ-tlemcen.dz/)**: Lower and Middle Jurassic ammonites; biochronology; cartography of anoxic intervals (since 2020).
 * **[Rowan Martindale](https://www.jsg.utexas.edu/martindale/)**: Early Jurassic; palaeoecology; mass extinctions (since 2020).
+* **[Boris Nikitenko](http://www.ipgg.sbras.ru/en/institute/staff/nikitenkobl)**: Arctic Basin geology, foraminifera, palaeoenvironments and palaeogeography (since 2020)
 * **[Pierre Pellenard](https://pellenard.wordpress.com/)**: Sedimentology; integrated stratigraphy; chemostratigraphy; geochronology (member since 2020, Vice-Chair 2024-).
 * **[Matías Reolid]**
 * **[Micha Ruhl](http://www.tcd.ie/Geology/people/ruhlm/)**: Cyclostratigraphy; chemostratigraphy; palaeoclimate; marine and continental depositional environments (since 2020).
