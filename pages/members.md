@@ -22,7 +22,7 @@ Website contacts: Angela Coe and David Kemp
 * **[Angela Coe](http://www.open.ac.uk/people/alc8#tab1)**: chemostratigraphy; sequence stratigraphy; palaeoclimatology; influence of environmental change on biota; regional geology of the Late Jurassic of NW Europe (secretary 2013-2020, chair 2020-).
 * **[Oksana Dzyuba](http://www.ipgg.sbras.ru/en/person/ipgg-dzyubaos)**: Jurassic and Early Cretaceous belemnites; biostratigraphy and chemostratigraphy; palaeobiogeography; palaeoecology; northern Eurasia and North America (2013-2021, break 2022-).
 * **[Alicia Fantasia]**
-* **[Matthais Franz]**
+* **[Matthias Franz]**
 * **[Ewa Głowniak](https://www.geo.uw.edu.pl/pl/dr-hab-ewa-glowniak)**: Late Jurassic ammonites and biostratigraphy; Sub-Mediterranean province; biochronology and bioevents; palaeobiogeography (since 2020).
 * **[Jacek Grabowski](https://publons.com/researcher/2782283/jacek-grabowski/)**: Magnetic stratigraphy; Late Jurassic, gamma ray spectrometry; chemostratigraphy (since 2020).
 * **[Diying Huang](http://sourcedb.nigpas.cas.cn/en/ywrck/200907/t20090728_2280913.html)**: Mesozoic terrestrial stratigraphy; Chinese Jurassic; Chemostratigraphy and biostratigraphy; Fossil insects (since 2020).
