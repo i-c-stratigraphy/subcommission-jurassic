@@ -38,6 +38,7 @@ Website contacts: Angela Coe and David Kemp
 * **[Guenter Schweigert](https://naturkundemuseum-bw.de/en/research/paleontology/department-paleontology/guenter-schweigert)**: Middle and Upper Jurassic ammonites; biostratigraphy; palaeoecology; marine lagerstätten (since 2020).
 * **[Verónica Vennari](https://www.researchgate.net/profile/Veronica_Vennari)**: Late Jurassic ammonites; biostratigraphy; systematics; southwestern Gondwana geology (since 2020).
 * **[Ana Bertha Villaseñor](https://www.geologia.unam.mx/comunidad-igl/villasenor-martinez-ab)**: Upper Jurassic; ammonites; biostratigraphy; palaeobiogeography (since 2020).
+* **[Yang(Wendy)Zhang](https://www.geophysik.uni-bremen.de/page.php?pageid=610&benutzer_ID=4935&p_reg=1&frstChr=)**: Magnetostratigraphy, time scale development, marine geology, cyclostratigraphy, paleoclimatology (since 2024)
 
 #### Corresponding members
 * **[Stephen Hesselbo](https://www.exeter.ac.uk/research/institutes/esi/about/people/profile/index.php?username=sph216)**:Lower Jurassic stratigraphy, sedimentology, palaeoclimate change (Chair and voting member 2012-2020)
