@@ -14,7 +14,8 @@ Our work falls into the following:
 6. Furthering understanding of the Earth system during the Jurassic.
 7. Providing an inclusive and diverse community that facilitates research aspirations at all career stages.
 
-The next ISJS conference will be held in 2026. We organise a session at the International Stratigraphy Conference facilitated by ICS (STRATI). See the meetings page for more information.
+The next ISJS conference will be held in 2026. We organise a session at the International Stratigraphy Conference facilitated by ICS (STRATI). 
+See ([Meetings](meetings)) for more information.
 
 Research on the Jurassic by the executive of ISJS and voting members of the ISJS can be found under their individual webpages listed on the [members page](members). The journal _[Volumina Jurassica](https://vjs.pgi.gov.pl/)_ is also a good place to find out who else is publishing research on the Jurassic.
 <br>
