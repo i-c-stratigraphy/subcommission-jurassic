@@ -180,6 +180,7 @@ A full account is published in:
 
 ### Informal groups
 #### North Africa Jurassic 
-Convenor: [Abbas Marok](https://abbasmarok.univ-tlemcen.dz/)
+Convenor: [Abbas Marok](https://abbasmarok.univ-tlemcen.dz/).
+
 Aims are to propose some Jurassic geosites of international interest and raise the profile of work on the Jurassic in Africa. Please get in touch with Abbas Marok if you are interested.
 
