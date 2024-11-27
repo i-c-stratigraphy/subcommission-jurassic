@@ -16,10 +16,10 @@ Website contacts: Angela Coe and David Kemp
 
 #### Current Voting Members
 
-* **[Aisha Al-Suwaidi](https://www.ku.ac.ae/academics/college-of-arts-and-sciences/department/department-of-earth-sciences/people/aisha-al-suwaidi)**:Chemostratigraphy, geochronology, paleoclimate, paleoenvironment in marine and terrestrial environments (since 2024)
+* **[Aisha Al-Suwaidi](https://www.ku.ac.ae/academics/college-of-arts-and-sciences/department/department-of-earth-sciences/people/aisha-al-suwaidi)**: Chemostratigraphy, geochronology, paleoclimate, paleoenvironment in marine and terrestrial environments (since 2024)
 * **[Viktória Baranyi](https://www.researchgate.net/profile/Viktoria_Baranyi)**: Early Jurassic palynology and vegetation history; palynostratigraphy; palaeoclimatology (since 2020).
 * **[Annachiara Bartolini](https://paleo.mnhn.fr/fr/annuaire/annachiara-bartolini-394)**: Chemostratigraphy; foraminifera; palaeoecology (since 2020).
-* **[Angela Coe](http://www.open.ac.uk/people/alc8#tab1)**: chemostratigraphy; sequence stratigraphy; palaeoclimatology; influence of environmental change on biota; regional geology of the Late Jurassic of NW Europe (secretary 2013-2020, chair 2020-).
+* **[Angela Coe](http://www.open.ac.uk/people/alc8#tab1)**: Chemostratigraphy; sequence stratigraphy; palaeoclimatology; influence of environmental change on biota; regional geology of the Late Jurassic of NW Europe (secretary 2013-2020, chair 2020-).
 * **[Oksana Dzyuba](http://www.ipgg.sbras.ru/en/person/ipgg-dzyubaos)**: Jurassic and Early Cretaceous belemnites; biostratigraphy and chemostratigraphy; palaeobiogeography; palaeoecology; northern Eurasia and North America (2013-2021, break 2022-).
 * **[Alicia Fantasia](https://www.unifr.ch/directory/fr/people/371229/a10af)**: Geoconservation advisor for the subcommission; Lower and Middle Jurassic, sedimentology, chemostratigraphy, paleoenvironments and paleoclimate, global changes. 
 * **[Matthias Franz](https://www.researchgate.net/profile/Matthias-Franz-2)**: Mid-Jurassic ostracoda (Aalenian to Callovian, lithostratigraphy,palaeoecology of iron oolites (since 2024)
