@@ -6,7 +6,7 @@ permalink: /news
 ## News
 
 #### 12th International Jurassic congress on the Jurassic System - 29th June to 3rd July 2026 (*26 November 2024*)
-We look forward to welcoming delegates to Exeter University, Exeter, UK from the 29th June to 3rd of July 2026 for our next congress. There will be pre- and post-conference field trips to the main Jurassic sites in the UK and a mid-conference, all delegate, field trip to the Hettangian to Pliensbachian strata at Lyme Regis and Charmouth. Main contact is Stephen Hesselbo, Exeter University. Further information to follow.
+> We look forward to welcoming delegates to Exeter University, Exeter, UK from the 29th June to 3rd of July 2026 for our next congress. There will be pre- and post-conference field trips to the main Jurassic sites in the UK and a mid-conference, all delegate, field trip to the Hettangian to Pliensbachian strata at Lyme Regis and Charmouth. Main contact is Stephen Hesselbo, Exeter University. Further information to follow.
 
 #### Sad news: Death of Grzegorz (Gregory) Pieńkowski (*26 April 2023*)
 > We record, with great sadness, the sudden death of Grzegorz (Gregory) Pieńkowski on the 19th April 2023. Grzegorz, or Gregory as he often asked us to call him, was a hugely valued member of the Jurassic community and has provided many years of service to ISJS as the vice chair. For more information see: [Grzegorz Pieńkowski](pieńkowski).
