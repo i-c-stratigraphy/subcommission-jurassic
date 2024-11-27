@@ -175,13 +175,11 @@ A full account is published in:
 
 <div style="height:8px; width:100%; background-color:#14425A; display:block;">&nbsp;</div>
 ### Other working groups
-#### Geoconservation
-Convenor: Kevin Page
+#### High-resolution Jurassic Stratigraphy
+(more info to come)
 
-Contact information: Camborne School of Mines, University of Exeter, Penryn Campus, Cornwall, TR10 9FE, UK. K.Page[AT]exeter.ac.uk
+### Informal groups
+#### North Africa Jurassic 
+Convenor: [Abbas Marok](https://abbasmarok.univ-tlemcen.dz/)
+Aims are to propose some Jurassic geosites of international interest and raise the profile of work on the Jurassic in Africa. Please get in touch with Abbas Marok if you are interested.
 
-
-#### Liaison
-Convenor: Robert Chandler
-
-Contact information: Shirley High School, Croydon, UK
