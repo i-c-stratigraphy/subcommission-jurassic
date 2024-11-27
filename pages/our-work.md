@@ -7,14 +7,14 @@ permalink: /our-work
 Our work falls into the following:
 
 1. The research of working groups to [define the base of each of the Jurassic stages](#stage-working-groups-and-gssps).
-2. Working groups on [other aspects of the Jurassic](#other-working-groups).
+2. Working groups on [other aspects of the Jurassic](#other-working-groups) and [informal groups](#informal-groups)
 3. Facilitating communication on the Jurassic including organization of conference sessions, workshops and the international conference for ISJS that is held every 4 years to facilitate research on the Jurassic (see [Meetings](meetings))
 4. Supporting IGCP projects related to the Jurassic.
 5. Improving resolution and correlation of the integrated stratigraphy for the Jurassic.
 6. Furthering understanding of the Earth system during the Jurassic.
 7. Providing an inclusive and diverse community that facilitates research aspirations at all career stages.
 
-The next ISJS conference will be held in 2026. We organise a session at the International Stratigraphy Conference facilitated by ICS (STRATI). The last [STRATI was in July 2019 in Milan](http://www.strati2019.it/). The next one will be in Lille in 2023- see the meetings page for more information.
+The next ISJS conference will be held in 2026. We organise a session at the International Stratigraphy Conference facilitated by ICS (STRATI). See the meetings page for more information.
 
 Research on the Jurassic by the executive of ISJS and voting members of the ISJS can be found under their individual webpages listed on the [members page](members). The journal _[Volumina Jurassica](https://vjs.pgi.gov.pl/)_ is also a good place to find out who else is publishing research on the Jurassic.
 <br>
