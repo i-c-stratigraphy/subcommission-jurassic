@@ -24,7 +24,7 @@ Research on the Jurassic by the executive of ISJS and voting members of the ISJS
 One of the major aims of the ISJS is to define all the Global Stratotypes, Sections and Points (GSSPs) for the Jurassic. Most of the research work is completed through working groups for each of the stages. This section summarises: 
 
 1. All the Jurassic boundaries that have been formally defined and ratified. Note that each of these boundaries have, firstly, been researched, defined and voted on by ISJS and the associated working group, secondly, received peer review and been voted on by the International Commission on Stratigraphy and, thirdly, received ratification by the International Union of Geological Sciences. 
-2. The status of the boundaries that are currently in progress towards formal definition.
+2. The status of the boundaries that are currently in progress.
 
 * [Tithonian](#tithonian) – not yet formally defined
 * [Kimmeridgian](#kimmeridgian)
@@ -43,9 +43,9 @@ One of the major aims of the ISJS is to define all the Global Stratotypes, Secti
 #### Tithonian
 A working definition is near the base of the _Hybonoticeras hybonotum_ ammonite zone and lowest occurrence of _Gravesia_ genus, and the base of magnetic polarity chronozone M22An.
 
-Possible candidates GSSPs considered so far are at Mt. Crussol or Canjuers (SE France) and Fornazzo (Sicily, S. Italy).
+Possible candidates GSSPs considered so far are at Mt. Crussol or Canjuers (SE France), Fornazzo (Sicily, S. Italy) and sites in South America.
 
-The convenor of the Tithonian Working Group is Federico Olóriz Sáez, Departamento de Estratigrafía y Paleontología, Facultad de Ciencias – Universidad de Granada, Av. Fuentenueva s/n – 18071 Granada, e-mail: foloriz[AT]ugr.es. The working group is currently being redefined so if you are interested in being considered please contact Angela Coe.
+The convenor of the Tithonian Working Group is Ana Bertha Villaseñor. The secretary is Verónica Vennari.
 
 **Papers on sections that are also relevant include:**
 
@@ -78,7 +78,7 @@ The working definition is at the base of the ammonite _Cardioceras redcliffense_
 
 Candidates locations for the Global Stratotype Section and Point are at Thoux, Provence, SE France ([Pellenard _et al_. (2014)](https://vjs.pgi.gov.pl/article/view/26592)) and Redcliff Point, Dorset, SW England ([Melendez & Page (2015)](https://vjs.pgi.gov.pl/article/view/26644).
 
-The chair of the working group for definition of the base of the Oxfordian Stage is Kevin Page, Camborne School of Mines, University of Exeter, Penryn Campus, Cornwall, TR10 9FE, UK. K.Page[AT]exeter.ac.uk
+The co-chairs of the working group for definition of the base of the Oxfordian Stage are Kevin Page and Pierre Pellenard. The secretary is Ewa Głowniak.
 
 Papers on sections that are also relevant include:
 Dubki section, Saratov area, Russia
@@ -89,9 +89,9 @@ Dubki section, Saratov area, Russia
 #### Callovian
 The current working definition is the first occurrence of the ammonite genus _Kepplerites_ (_Kosmoceratidae_) which marks the base of _Macrocephalites herveyi_ Zone in sub-Boreal province of Great Britain to southwest Germany. 
 
-The Callovian working group(http://jurassic.ru/callovian.htm) who are completing research to define the base of the Callovian Stage is convened by Dr. Eckhard Mönnig, Naturkunde-Museum Coburg, Park 6, D-96450 Coburg, Germany, e.moennig[AT]naturkunde-museum-coburg.de. Recent publication relevant to the Callovian are posted on the [Callovian working group](http://jurassic.ru/callovian.htm) website. The working group is currently being re-shaped, if you are interested in being a member please contact Eckhard Mönnig or Angela Coe.
+The Callovian working group(http://jurassic.ru/callovian.htm) who are completing research to define the base of the Callovian Stage is currently being reformed. Publication relevant to the Callovian are posted on the [Callovian working group](http://jurassic.ru/callovian.htm) website. If you are interested in being a member please contact Angela Coe.
 
-The most recent report of progress of the Callovian working group is published in _Volumina Jurassic_: [Mönnig (2014)](https://vjs.pgi.gov.pl/article/view/26602).
+A report of progress of the Callovian working group was published in _Volumina Jurassic_: [Mönnig (2014)](https://vjs.pgi.gov.pl/article/view/26602).
 
 Other sections under consideration include: Prosek section, Nizhni Novgorod area, Russia
 
