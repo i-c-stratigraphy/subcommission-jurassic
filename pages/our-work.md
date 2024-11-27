@@ -88,7 +88,9 @@ Dubki section, Saratov area, Russia
 
 <div style="height:5px; width:100%; background-color:#D4F3FD; display:block;">&nbsp;</div>
 #### Callovian
+
 The Callovian working group is currently being reformed. If you are interested in being a member please contact Angela Coe.
+
 The working definition was the first occurrence of the ammonite genus _Kepplerites_ (_Kosmoceratidae_) which marks the base of _Macrocephalites herveyi_ Zone in sub-Boreal province of Great Britain to southwest Germany. The section at Albstadt-Pfeffingen in Germany has been intensively studied and has yielded much useful information on the ammonite faunas. However it has proved difficult, to date, to identify a section with this ammonite that is not condensed and fulfils some of the other GSSP criteria. 
 
 Recently, a well-exposed and expanded section with radio-isotopic dates has been identified in Argentina however here the endemism of the ammonites and possibly other fossil groups may be problematic, but this will be investigated by the new working group. New potential sections have also recently been identified in Kachchh, India.
