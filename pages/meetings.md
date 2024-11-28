@@ -13,7 +13,7 @@ permalink: /meetings
 >Following on from the successful [JET project](https://www.exeter.ac.uk/research/groups/csm/globalchange/jet/), members of the community are invited to a workshop in Portugal about the proposed drilling of the Middle Jurassic section in the northern Lusitanian Basin in Portugal in June 2025. The workshop will explore research questions and drilling targets. [Middle Jurassic Earth System and Timescale (M-JET) website](https://github.com/user-attachments/assets/cf1f089b-6884-4f1e-aac4-9c59c76165c3)
 
 #### Jurassic and Cretaceous Meeting, France 2nd and 3rd Dec 2024
-[Annual reunion of the French Jurassic Group](https://www.geosoc.fr/toutes-les-actualites/listid-21/mailid-1277-reunion-annuelle-du-groupe-francais-du-cretace-02-03-decembre-2024.html). All welcome. Sorbonne Université, Salle Fourcade, Tour 46-56, 5ème étage. Contact:Johann Schnyder at Sorbonne Université. 
+>[Annual reunion of the French Jurassic Group](https://www.geosoc.fr/toutes-les-actualites/listid-21/mailid-1277-reunion-annuelle-du-groupe-francais-du-cretace-02-03-decembre-2024.html). All welcome. Sorbonne Université, Salle Fourcade, Tour 46-56, 5ème étage. Contact:Johann Schnyder at Sorbonne Université. 
 
 #### Other meetings of relevance to Jurassic stratigraphy
 
