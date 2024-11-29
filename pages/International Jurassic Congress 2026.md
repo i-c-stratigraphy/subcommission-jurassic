@@ -15,5 +15,5 @@ We invite anyone that works on Jurassic rocks to the
 >We look forward to welcoming everyone who works on the Jurassic to this congress and to the Dorset World Heritage Site with its famous Jurassic rocks.
 
 
-<img src="images/12th_congress_Lyme_regis.jpg" style="width:100%;" alt="Lower Jurassic rocks at Lyme Regis" />  
+<img src="images/banner-08.jpg" style="width:100%;" alt="Lower Jurassic rocks at Lyme Regis" />  
 <p style="font-size:small;">Hettangian to Sinemurian aged strata at Lyme Regis, Dorset, UK. This famous site that forms part of the Dorset World Heritage Site will be visited during the mid congress field trip. Please note we have ordered sunshine for the fieldtrip!</p>
