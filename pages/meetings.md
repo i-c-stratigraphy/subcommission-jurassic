@@ -13,9 +13,10 @@ permalink: /meetings
 
 >The International Jurassic Congress on the Jurassic system will be held at Exeter University, Exeter, UK from the 29th June to 3rd of July 2026. There will be workshops, pre- and post-conference field trips to the main Jurassic sites in the UK and a mid-conference, all delegate, field trip to the Hettangian to Pliensbachian strata at Lyme Regis and Charmouth.
 
->Further information will be posted on this website on the 15th January 2025. Please direct any initial queries to Stephen Hesselbo, Exeter University (s.p.hesselbo[at]exeter.ac.uk).
+>Further information will be posted at [International Jurassic Congress 2026](International Jurassic Congress 2026) on 15th January 2025. Please direct any initial queries to Stephen Hesselbo, Exeter University (s.p.hesselbo[at]exeter.ac.uk).
 
 >We look forward to welcoming everyone who works on the Jurassic to this congress and to the Dorset World Heritage Site with its famous Jurassic rocks.
+
 
 #### International Continental Drilling Program (ICDP) funded workshop (Middle Jurassic Earth System and Timescale (M-JET)). 
 >Following on from the successful [JET project](https://www.exeter.ac.uk/research/groups/csm/globalchange/jet/), members of the community are invited to a workshop in Portugal about the proposed drilling of the Middle Jurassic section in the northern Lusitanian Basin in Portugal in June 2025. The workshop will explore research questions and drilling targets. [Middle Jurassic Earth System and Timescale (M-JET) website](https://github.com/user-attachments/assets/cf1f089b-6884-4f1e-aac4-9c59c76165c3)
