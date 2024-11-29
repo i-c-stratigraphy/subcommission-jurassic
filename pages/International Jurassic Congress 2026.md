@@ -4,7 +4,7 @@ title: “International Jurassic Congress 2026”
 permalink: /International Jurassic Congress 2026
 ---
 
-We invite anyone that works on Jurassic rocks to the 
+We invite anyone that works on Jurassic rocks to
 
 **The 12th International Jurassic Congress on the Jurassic System** that will be held at Exeter University, Exeter, UK from the 29th June to 3rd of July 2026.
 
