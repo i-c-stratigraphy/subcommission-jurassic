@@ -8,7 +8,7 @@ permalink: /meetings
 
 #### IMPORTANT ANNOUNCEMENT
 #### 12th International Jurassic Congress on the Jurassic System - 29th June to 3rd July 2026
-<img src="images/12th_congress_Lyme_regis.jpg" style="width:100%;" alt="Lower Jurassic rocks at Lyme Regis" />  
+<img src="images/banner-08.jpg" style="width:100%;" alt="Lower Jurassic rocks at Lyme Regis" />  
 <p style="font-size:small;">Hettangian to Sinemurian aged strata at Lyme Regis, Dorset, UK. This famous site that forms part of the Dorset World Heritage Site will be visited during the mid congress field trip. Please note we have ordered sunshine for the fieldtrip!</p>
 
 >The International Jurassic Congress on the Jurassic system will be held at Exeter University, Exeter, UK from the 29th June to 3rd of July 2026. There will be workshops, pre- and post-conference field trips to the main Jurassic sites in the UK and a mid-conference, all delegate, field trip to the Hettangian to Pliensbachian strata at Lyme Regis and Charmouth.
