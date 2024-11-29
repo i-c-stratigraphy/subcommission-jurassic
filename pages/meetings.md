@@ -6,7 +6,7 @@ permalink: /meetings
 ## Forthcoming meetings 
 (Updated 29 nov 2024)
 
-#### IMPORTANT NEWS
+#### IMPORTANT ANNOUNCEMENT
 #### 12th International Jurassic Congress on the Jurassic System - 29th June to 3rd July 2026
 <img src="images/12th_congress_Lyme_regis.jpg" style="width:100%;" alt="Lower Jurassic rocks at Lyme Regis" />  
 <p style="font-size:small;">Hettangian to Sinemurian aged strata at Lyme Regis, Dorset, UK. This famous site that forms part of the Dorset World Heritage Site will be visited during the mid congress field trip. Please note we have ordered sunshine for the fieldtrip!</p>
