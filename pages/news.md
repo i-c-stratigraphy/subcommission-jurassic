@@ -5,6 +5,9 @@ permalink: /news
 ---
 ## News
 
+#### Obituary: Axel von Hillebrandt (1933–2024) (*1 December 2024*)
+> We note with sadness the death of Axel von Hillebrandt, a pioneer of Jurassic biostratigraphy and geology. A full obituary can be found [here](hillebrandt)
+
 #### IMPORTANT 12th International Jurassic congress on the Jurassic System - 29th June to 3rd July 2026 (*26 November 2024*)
 > We look forward to welcoming delegates to Exeter University, Exeter, UK from the 29th June to 3rd of July 2026 for our next congress. There will be lots of fieldtrips to choose from including a mid-congress trip. Please see the [Meetings](meetings) page for more information.
 
