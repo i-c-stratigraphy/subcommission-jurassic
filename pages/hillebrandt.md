@@ -8,7 +8,7 @@ permalink: /hillebrandt
 <img src="images/hillebrandt-enno.png" style="width:50%;" alt="Axel von Hillebrandt and his dog Enno" />  
 <p style="font-size:small;">Axel von Hillebrandt and his dog Enno in the Karwendel</p>
 
-On January 3, 2024, Axel von Hillebrandt died in Berlin after a long illness at the age of 91.
+On January 3, 2024, Axel von Hillebrandt died in Berlin at the age of 91 after a long illness.
 
 Axel von Hillebrandt (A.v.H.) was born on April 12, 1933 in Tilsit. His parents were Captain Hans von Hillebrandt and his wife Ehrengard (née Flotow). The family moved to Schweinfurt in 1936 because his father was transferred from the 1st Prussian Cavalry Regiment to the local 36th Tank Regiment (this unit was wiped out in Stalingrad in 1942/43). Here, from 1939 to 1943, A. v. H. attended the elementary school and then the high school for boys. Since Schweinfurt increasingly became a target for Allied bombers during the Second World War, he attended the Hermann Lietz Schools in Ettersburg near Weimar and Grovesmühlen in the Harz mountains from 1943 to 1945. After the war, he returned to Schweinfurt and passed his secondary school leaving examination in 1952.
 
