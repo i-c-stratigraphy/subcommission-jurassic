@@ -16,10 +16,10 @@ A.v.H. developed an interest in geology at school, and so he began studying at L
 
 A.v.H. came back to the Paleontological Institute of the LMU, where he worked under Herbert Hagn on a dissertation on the Paleocene and its foraminifera in the Reichenhall and Salzburg basins (Hillebrandt, 1960). As part of a mountaineering tour in the Spanish Central Pyrenees organized by the Alpine Club, he also examined profiles in the Early Tertiary of the Mont Perdu area (Hillebrandt, 1962, 1964). From 1959 he received a position as a research assistant at the institute, and after receiving his PhD in 1960 he became a research assistant to Richard Dehm.
 
-In 1962, Axel von Hillebrand moved to the Technical University of Berlin as assistant of Werner Zeil, with the opportunity to complete his habilitation. His research focused now on the Early Tertiary of Zumaya (Guipuzcoa Province, NW Spain). However, contacts with Munich, especially with the academic section of the German Alpine Club, remained intact. This is how A.v.H. was abke to conduct an adventurous expedition to the Hindu Kush. The seven participants of this expedition set off in June 1963 in three VW buses and reached Kabul via Persia after a three-week journey. From here, they drove in one VW bus and a truck along mountain roads to the village of Warsa, 680 km away, and then walked for days to explore the geography and geology of the Hindu Kush. Thirty peaks with a height of more than 5000 m were climbed (Hillebrandt, 1963, 1964). Back in Berlin he continued his work on the Zumaya profile – a very important Cretaceous-Tertiary boundary location, again in cooperation with Dietrich Herm. After submitting his habilitation thesis (Hillebrandt, 1965) he received the Venia Legendi.
-
 <img src="images/hillebrandt.png" style="width:80%;" alt="Axel von Hillebrandt through the years" />  
 <p style="font-size:small;">Axel von Hillebrand in 1952, 1984 and 2010.</p>
+
+In 1962, Axel von Hillebrand moved to the Technical University of Berlin as assistant of Werner Zeil, with the opportunity to complete his habilitation. His research focused now on the Early Tertiary of Zumaya (Guipuzcoa Province, NW Spain). However, contacts with Munich, especially with the academic section of the German Alpine Club, remained intact. This is how A.v.H. was abke to conduct an adventurous expedition to the Hindu Kush. The seven participants of this expedition set off in June 1963 in three VW buses and reached Kabul via Persia after a three-week journey. From here, they drove in one VW bus and a truck along mountain roads to the village of Warsa, 680 km away, and then walked for days to explore the geography and geology of the Hindu Kush. Thirty peaks with a height of more than 5000 m were climbed (Hillebrandt, 1963, 1964). Back in Berlin he continued his work on the Zumaya profile – a very important Cretaceous-Tertiary boundary location, again in cooperation with Dietrich Herm. After submitting his habilitation thesis (Hillebrandt, 1965) he received the Venia Legendi.
 
 At the suggestion of Werner Zeil, who worked in South America since 1955 and managed the “Andean Geotraverse” research group, Axel von Hillebrandt taught as a visiting professor at the Escuela de Geologica in Santiago (Chile) from 1966 to 1968. The move to South America meant not only a geographical but also a technical turning point, because from then on he focused on the biotratigraphy of the Jurassic by means of ammonites. First, he took every opportunity to study the Jurassic and Cretaceous deposits of the Andes and the corresponding museum collections in Chile and Argentina. Between January 1966 and March 1968 he was active mainly in the Atacama region between 26° and 29° S, where he explored about 50 outcrops. He also investigated sections in the Domeyko Mountains and the Jurassic Coastal Mountains. In May 1967 he again joined an Alpine Club expedition; the Munich Alpine Expedition to Peru (Hillebrandt and Mirwald, 1969). He made observations of the Jurassic and Cretaceous between Pucará and Pampa Cruz, south of Huancayo in central Peru (Hillebrandt, 1970). In January 1968 he visited the Jurassic region of Paso del Espinacito in the south of San Juan Province in Argentina.
 
@@ -47,9 +47,12 @@ Axel von Hillebrandt was married and had two daughters. His wife Lilo died far t
 **References:** 
 
 Hillebrandt, A.v. (1960c): Das Alttertiär im Becken von Reichenhall und Salzburg (Nördliche Kalkalpen). Auszug aus der Inaugural-Dissertation Universität München mit Lebenslauf; München (Steinbauer & Hagemann).
+
 Kallenbach, H.: Laudatio zum 65. Geburtstag. (Manuskript, November 1998).
+
 Prinz-Grimm, P. (1998): Prof. Dr. Axel von Hillebrandt zum 65. Geburtstag. – Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen, 211/1(2), p. 1-5.
-Riccardi, A. (2021): Los Miembros Correspondientes de la Asociación Geológica Argentina: Axel von Hillebrandt. – Asociatión Geológica Argentina, Serie D, Publicación Especial, 15 (2021), p. 237-241, 3  figs. 
+
+Riccardi, A. (2021): Los Miembros Correspondientes de la Asociación Geológica Argentina: Axel von Hillebrandt. – Asociatión Geológica Argentina, Serie D, Publicación Especial, 15 (2021), p. 237-241. 
 
 **Axel von Hillebrandt – Publications**
 
