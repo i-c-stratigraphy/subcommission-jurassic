@@ -32,7 +32,7 @@ Website contacts: Angela Coe and David Kemp
 * **[Rowan Martindale](https://www.jsg.utexas.edu/martindale/)**: Early Jurassic; palaeoecology; mass extinctions (since 2020).
 * **[Boris Nikitenko](http://www.ipgg.sbras.ru/en/institute/staff/nikitenkobl)**: Arctic Basin geology, foraminifera, palaeoenvironments and palaeogeography (2020-2021, break 2022-)
 * **[Pierre Pellenard](https://pellenard.wordpress.com/)**: Sedimentology; integrated stratigraphy; chemostratigraphy; geochronology (member since 2020, Vice-Chair 2024-).
-* **[Matías Reolid](https://www.researchgate.net/profile/Matias-Reolid)**: Dinoflagellates, palynology, foraminifera, vetebrates, OAEs (since 2024)
+* **[Matías Reolid](https://www.researchgate.net/profile/Matias-Reolid)**: Foraminifera; geochemistry; taphonomy; ichnology; palaeoecology; OAEs (since 2024).
 * **[Micha Ruhl](http://www.tcd.ie/Geology/people/ruhlm/)**: Cyclostratigraphy; chemostratigraphy; palaeoclimate; marine and continental depositional environments (since 2020).
 * **[Shin-ichi Sano](https://www.researchgate.net/profile/Shin-ichi_Sano)**: Middle to Late Jurassic bivalves; palaeobiogeography; regional geology of East Asia (since 2020).
 * **[Guenter Schweigert](https://naturkundemuseum-bw.de/en/research/paleontology/department-paleontology/guenter-schweigert)**: Middle and Upper Jurassic ammonites; biostratigraphy; palaeoecology; marine lagerstätten (since 2020).
