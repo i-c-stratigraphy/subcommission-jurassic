@@ -8,7 +8,7 @@ We invite anyone that works on Jurassic rocks to
 
 **The 12th International Jurassic Congress on the Jurassic System** that will be held at Exeter University, Exeter, UK from the 29th June to 3rd of July 2026.
 
->*Conference venue*: The conference will be held at the [Streatham Campus] (https://www.exeter.ac.uk/about/visit/streathamcampus/) of the University of Exeter, close to the centre of the ancient city of Exeter in SW England.
+>*Conference venue*: The conference will be held at the [Streatham Campus](https://www.exeter.ac.uk/about/visit/streathamcampus/) of the University of Exeter, close to the centre of the ancient city of Exeter in SW England.
 
 >The venue is easily reached from London.  From Exeter St David's Station it is an approximately 10-minute walk to the Streatham Campus and taxis are available. The average journey time from London Paddington to Exeter is 2 hours 30 minutes. London Heathrow Airport is the most convenient point of arrival by air. Alternative convenient travel from continental Europe is via the Channel Tunnel and the Eurostar rail service.
  
