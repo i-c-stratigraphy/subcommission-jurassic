@@ -24,9 +24,9 @@ We invite anyone that works on Jurassic rocks to
  
 >**Pre and post conference fieldtrips**: These will likely change subject to availability.  Currently field excursions are planned for the Upper Jurassic of the Dorset coast, the Lower Jurassic of the Somerset and South Wales, the Lower and Middle Jurassic of the Yorkshire coast, the Lower Jurassic of Northern Ireland, and the Jurassic of Scotland.
 
-> Further information will be posted on this website on the 15th January 2025. Please direct any initial queries to Stephen Hesselbo, Exeter University (s.p.hesselbo[at]exeter.ac.uk).
+> *Further information**: This will be posted on this website on the 15th January 2025. Please direct any initial queries to Stephen Hesselbo, Exeter University (s.p.hesselbo[at]exeter.ac.uk).
 
-> We look forward to welcoming everyone who works on the Jurassic to this congress and to the Dorset World Heritage Site with its famous Jurassic rocks.
+> **We look forward to welcoming everyone who works on the Jurassic to this congress and to the Dorset World Heritage Site with its famous Jurassic rocks**.
 
 <img src="images/banner-08.jpg" style="width:100%;" alt="Lower Jurassic rocks at Lyme Regis" />  
 <p style="font-size:small;">Tithonian-aged strata near Kimmeridge, Dorset, UK. This site forms part of the Dorset World Heritage Site and will be visited during one of the conference field excursions. Please note we have ordered sunshine for the fieldtrip!</p>
