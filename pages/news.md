@@ -5,8 +5,11 @@ permalink: /news
 ---
 ## News
 
-#### IMPORTANT 12th International Jurassic congress on the Jurassic System - 29th June to 3rd July 2026 (*26 November 2024*)
-> We look forward to welcoming delegates to Exeter University, Exeter, UK from the 29th June to 3rd of July 2026 for our next congress. There will be lots of fieldtrips to choose from including a mid-congress trip. Please see the [Meetings](meetings) page for more information.
+#### Latest issue of Volumina Jurassica published (*28 March 2025*)
+> The latest issue of Volumina Jurassica is now available online, and is dedicated to the memory of Prof. Grzegorz (Gregory) Pieńkowski. The issue can be accesssed [here](https://vjs.pgi.gov.pl/issue/view/23575). Gregory's obituary can be read [here](pieńkowski).
+
+#### IMPORTANT 12th International Jurassic Congress on the Jurassic System - postponed until 2027 (*28 March 2025*)
+> The Subcommission have collectively decided to postpone the next International Jurassic Congress until 2027. This step was taken to avoid potential clashes with other meetings and maximize attendance. The meeting will be held at Exeter University, UK, with provisional dates of 5th-9th July. There will be lots of fieldtrips to choose from including a mid-congress trip. Please see the [Meetings](meetings) page for more information.
 
 #### Obituary: Axel von Hillebrandt (1933–2024) (*1 December 2024*)
 > We note with sadness the death of Axel von Hillebrandt, a pioneer of Jurassic biostratigraphy and geology. A full obituary can be found [here](hillebrandt).
