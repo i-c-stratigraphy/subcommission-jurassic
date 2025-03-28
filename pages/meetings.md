@@ -13,7 +13,7 @@ permalink: /meetings
 
 >The International Jurassic Congress on the Jurassic system will be held at Exeter University, Exeter, UK in July 2027, postponed from its original date of 2026. There will be workshops, pre- and post-conference field trips to the main Jurassic sites in the UK and a mid-conference, all delegate, field trip to the Hettangian to Pliensbachian strata at Lyme Regis and Charmouth.
 
->Further information will be posted at [International Jurassic Congress 2027](International Jurassic Congress 2027). Please direct any initial queries to Stephen Hesselbo, Exeter University (s.p.hesselbo[at]exeter.ac.uk).
+>Further information will be posted at [International Jurassic Congress 2027](/congress2027). Please direct any initial queries to Stephen Hesselbo, Exeter University (s.p.hesselbo[at]exeter.ac.uk).
 
 >We look forward to welcoming everyone who works on the Jurassic to this congress and to the Dorset World Heritage Site with its famous Jurassic rocks.
 
