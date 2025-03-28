@@ -1,12 +1,10 @@
 ---
 layout: page
-title: “International Jurassic Congress 2026”
+title: “International Jurassic Congress 2027”
 permalink: /congress2026
 ---
 
-We invite anyone that works on Jurassic rocks to
-
-**The 12th International Jurassic Congress on the Jurassic System** that will be held at Exeter University, Exeter, UK from the 29th June to 3rd of July 2026.
+**The 12th International Jurassic Congress on the Jurassic System**  will be held at Exeter University, Exeter, UK in 2027, postponed from its original date of 2026. The provisional dates of the meeting are 5-9th July, with confirmation to follow in due course.
 
 >**Conference venue**: The conference will be held at the [Streatham Campus](https://www.exeter.ac.uk/about/visit/streathamcampus/) of the University of Exeter, close to the centre of the ancient city of Exeter in SW England.
 
@@ -18,13 +16,13 @@ We invite anyone that works on Jurassic rocks to
  
 >**Bursaries**: Work has begun on fund raising so that we can offer bursaries through a simple application process for delegates of low economic means, to cover registration and at least part of the travel.
  
->**Conference sessions**: The sessions will run all day on Monday (29th June), Tuesday (30th June) and Thursday (2nd July) and Friday (3rd July). An icebreaker is planned for Sunday 28th.
+>**Conference sessions**: The sessions will run all day across 4 days, wth an icebreaker event also planned.
  
->**Mid-conference field trip**: On Wed 1st July there will be a mid-conference fieldtrip to the Jurassic of the Dorset coast, which is less than one hour’s drive from the conference venue. The cost will be included in the registration fee.
+>**Mid-conference field trip**: A mid-conference fieldtrip to the Jurassic of the Dorset coast is planed, which is less than one hour’s drive from the conference venue. The cost will be included in the registration fee.
  
 >**Pre and post conference fieldtrips**: These will likely change subject to availability.  Currently field excursions are planned for the Upper Jurassic of the Dorset coast, the Lower Jurassic of the Somerset and South Wales, the Lower and Middle Jurassic of the Yorkshire coast, the Lower Jurassic of Northern Ireland, and the Jurassic of Scotland.
 
-> *Further information**: This will be posted on this website on the 15th January 2025. Please direct any initial queries to Stephen Hesselbo, Exeter University (s.p.hesselbo[at]exeter.ac.uk).
+> *Further information**: Please direct any initial queries to Stephen Hesselbo, Exeter University (s.p.hesselbo[at]exeter.ac.uk).
 
 > **We look forward to welcoming everyone who works on the Jurassic to this congress and to the Dorset World Heritage Site with its famous Jurassic rocks**.
 
