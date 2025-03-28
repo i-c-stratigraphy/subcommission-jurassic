@@ -26,5 +26,5 @@ permalink: /congress2026
 
 > **We look forward to welcoming everyone who works on the Jurassic to this congress and to the Dorset World Heritage Site with its famous Jurassic rocks**.
 
-<img src="images/banner-08.jpg" style="width:100%;" alt="Lower Jurassic rocks at Lyme Regis" />  
+<img src="images//12th_congress_Lyme_regis.jpg" style="width:100%;" alt="Lower Jurassic rocks at Lyme Regis" />  
 <p style="font-size:small;">Tithonian-aged strata near Kimmeridge, Dorset, UK. This site forms part of the Dorset World Heritage Site and will be visited during one of the conference field excursions. Please note we have ordered sunshine for the fieldtrip!</p>
