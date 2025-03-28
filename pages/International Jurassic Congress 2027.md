@@ -22,7 +22,7 @@ permalink: /congress2027
  
 >**Pre and post conference fieldtrips**: These will likely change subject to availability.  Currently field excursions are planned for the Upper Jurassic of the Dorset coast, the Lower Jurassic of the Somerset and South Wales, the Lower and Middle Jurassic of the Yorkshire coast, the Lower Jurassic of Northern Ireland, and the Jurassic of Scotland.
 
-> *Further information**: Please direct any initial queries to Stephen Hesselbo, Exeter University (s.p.hesselbo[at]exeter.ac.uk).
+>**Further information**: Please direct any initial queries to Stephen Hesselbo, Exeter University (s.p.hesselbo[at]exeter.ac.uk).
 
 > **We look forward to welcoming everyone who works on the Jurassic to this congress and to the Dorset World Heritage Site with its famous Jurassic rocks**.
 
