@@ -1,7 +1,7 @@
 ---
 layout: page
 title: “International Jurassic Congress 2027”
-permalink: /congress2026
+permalink: /congress2027
 ---
 
 **The 12th International Jurassic Congress on the Jurassic System**  will be held at Exeter University, Exeter, UK in 2027, postponed from its original date of 2026. The provisional dates of the meeting are 5-9th July, with confirmation to follow in due course.
