@@ -7,7 +7,7 @@ permalink: /meetings
 (Updated 28 March 2025)
 
 #### Strati2026 meeting in Suzhou, China (June 28 to July 3, 2026)
-
+>The Strati2026 meeting will be held in Suzhou, China from June 28 to July 3, 2026. This meeting will bring together Earth scientists working on a range of topics related to stratigraphy, and 2 sessions focused on the Jurassic are scheduled (see [here](https://strati2026.org/page/strati_2026_session_excursions/g7.html) and [here](https://strati2026.org/page/strati_2026_session_excursions/s9.html)). The abstract submission deadline is March 15th. For more information, see the [conference website](https://strati2026.org/).
 
 #### 12th International Jurassic Congress on the Jurassic System - July 2027
 <img src="images/12th_congress_Lyme_regis.jpg" style="width:100%;" alt="Lower Jurassic rocks at Lyme Regis" />  
